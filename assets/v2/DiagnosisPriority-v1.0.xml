@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DiagnosisPriority" version="1.0" status="created"
+            id="2.16.840.1.113883.12.359">
+   <concept code="0">
+      <displayName>Not included in diagnosis ranking</displayName>
+   </concept>
+   <concept code="1">
+      <displayName>The primary diagnosis</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>For ranked secondary diagnoses</displayName>
+   </concept>
+</vocabulary>

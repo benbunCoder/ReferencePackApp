@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CountryCode" version="1.0" status="created" id="2.16.840.1.113883.12.399">
+   <concept code="ABW">
+      <displayName>ARUBA</displayName>
+   </concept>
+   <concept code="AFG">
+      <displayName>AFGHANISTAN</displayName>
+   </concept>
+   <concept code="AFT">
+      <displayName>FRENCH SOUTHERN TERRITORIES</displayName>
+   </concept>
+   <concept code="AGO">
+      <displayName>ANGOLA</displayName>
+   </concept>
+   <concept code="AIA">
+      <displayName>ANGUILLA</displayName>
+   </concept>
+   <concept code="ALB">
+      <displayName>ALBANIA</displayName>
+   </concept>
+   <concept code="AND">
+      <displayName>ANDORRA</displayName>
+   </concept>
+   <concept code="ANT">
+      <displayName>NETHERLANDS ANTILLES</displayName>
+   </concept>
+   <concept code="ARE">
+      <displayName>UNITED ARAB EMIRATES</displayName>
+   </concept>
+   <concept code="ARG">
+      <displayName>ARGENTINA</displayName>
+   </concept>
+   <concept code="ARM">
+      <displayName>ARMENIA</displayName>
+   </concept>
+   <concept code="ASM">
+      <displayName>AMERICAN SAMOA</displayName>
+   </concept>
+   <concept code="ATA">
+      <displayName>ANTARCTICA</displayName>
+   </concept>
+   <concept code="ATG">
+      <displayName>ANTIGUA AND BARBUDA</displayName>
+   </concept>
+   <concept code="AUS">
+      <displayName>AUSTRALIA</displayName>
+   </concept>
+   <concept code="AUT">
+      <displayName>AUSTRIA</displayName>
+   </concept>
+   <concept code="AZE">
+      <displayName>AZERBAIJAN</displayName>
+   </concept>
+   <concept code="BDI">
+      <displayName>BURUNDI</displayName>
+   </concept>
+   <concept code="BEL">
+      <displayName>BELGIUM</displayName>
+   </concept>
+   <concept code="BEN">
+      <displayName>BENIN</displayName>
+   </concept>
+   <concept code="BFA">
+      <displayName>BURKINA FASO</displayName>
+   </concept>
+   <concept code="BGD">
+      <displayName>BANGLADESH</displayName>
+   </concept>
+   <concept code="BGR">
+      <displayName>BULGARIA</displayName>
+   </concept>
+   <concept code="BHR">
+      <displayName>BAHRAIN</displayName>
+   </concept>
+   <concept code="BHS">
+      <displayName>BAHAMAS</displayName>
+   </concept>
+   <concept code="BIH">
+      <displayName>BOSNIA AND HERZEGOVINA</displayName>
+   </concept>
+   <concept code="BLR">
+      <displayName>BELARUS</displayName>
+   </concept>
+   <concept code="BLZ">
+      <displayName>BELIZE</displayName>
+   </concept>
+   <concept code="BMU">
+      <displayName>BERMUDA</displayName>
+   </concept>
+   <concept code="BOL">
+      <displayName>BOLIVIA</displayName>
+   </concept>
+   <concept code="BRA">
+      <displayName>BRAZIL</displayName>
+   </concept>
+   <concept code="BRB">
+      <displayName>BARBADOS</displayName>
+   </concept>
+   <concept code="BRN">
+      <displayName>BRUNEI DARUSSALAM</displayName>
+   </concept>
+   <concept code="BTN">
+      <displayName>BHUTAN</displayName>
+   </concept>
+   <concept code="BVT">
+      <displayName>BOUVET ISLAND</displayName>
+   </concept>
+   <concept code="BWA">
+      <displayName>BOTSWANA</displayName>
+   </concept>
+   <concept code="CAF">
+      <displayName>CENTRAL AFRICAN REPUBLIC</displayName>
+   </concept>
+   <concept code="CAN">
+      <displayName>CANADA</displayName>
+   </concept>
+   <concept code="CCK">
+      <displayName>COCOS (KEELING) ISLANDS</displayName>
+   </concept>
+   <concept code="CHE">
+      <displayName>SWITZERLAND</displayName>
+   </concept>
+   <concept code="CHL">
+      <displayName>CHILE</displayName>
+   </concept>
+   <concept code="CHN">
+      <displayName>CHINA</displayName>
+   </concept>
+   <concept code="CIV">
+      <displayName>COTE D'VOIRE</displayName>
+   </concept>
+   <concept code="CMR">
+      <displayName>CAMEROON</displayName>
+   </concept>
+   <concept code="COD">
+      <displayName>CONGO, THE DEMOCRATIC REPUBLIC OF THE</displayName>
+   </concept>
+   <concept code="COG">
+      <displayName>CONGO</displayName>
+   </concept>
+   <concept code="COK">
+      <displayName>COOK ISLAND</displayName>
+   </concept>
+   <concept code="COL">
+      <displayName>COLOMBIA</displayName>
+   </concept>
+   <concept code="COM">
+      <displayName>COMOROS</displayName>
+   </concept>
+   <concept code="CPV">
+      <displayName>CAPE VERDE</displayName>
+   </concept>
+   <concept code="CRI">
+      <displayName>COSTA RICA</displayName>
+   </concept>
+   <concept code="CUB">
+      <displayName>CUBA</displayName>
+   </concept>
+   <concept code="CXR">
+      <displayName>CHRISTMAS ISLAND</displayName>
+   </concept>
+   <concept code="CYM">
+      <displayName>CAYMAN ISLANDS</displayName>
+   </concept>
+   <concept code="CYP">
+      <displayName>CYPRUS</displayName>
+   </concept>
+   <concept code="CZE">
+      <displayName>CZECH REPUBLIC</displayName>
+   </concept>
+   <concept code="DEU">
+      <displayName>GERMANY</displayName>
+   </concept>
+   <concept code="DJI">
+      <displayName>DJIBOUTI</displayName>
+   </concept>
+   <concept code="DMA">
+      <displayName>DOMINICA</displayName>
+   </concept>
+   <concept code="DNK">
+      <displayName>DENMARK</displayName>
+   </concept>
+   <concept code="DOM">
+      <displayName>DOMINICAN REPUBLIC</displayName>
+   </concept>
+   <concept code="DZA">
+      <displayName>ALGERIA</displayName>
+   </concept>
+   <concept code="ECU">
+      <displayName>ECUADOR</displayName>
+   </concept>
+   <concept code="EGY">
+      <displayName>EGYPT</displayName>
+   </concept>
+   <concept code="ERI">
+      <displayName>ERITREA</displayName>
+   </concept>
+   <concept code="ESH">
+      <displayName>WESTERN SAHARA</displayName>
+   </concept>
+   <concept code="ESP">
+      <displayName>SPAIN</displayName>
+   </concept>
+   <concept code="EST">
+      <displayName>ESTONIA</displayName>
+   </concept>
+   <concept code="ETH">
+      <displayName>ETHIOPIA</displayName>
+   </concept>
+   <concept code="FIN">
+      <displayName>FINLAND</displayName>
+   </concept>
+   <concept code="FJI">
+      <displayName>FIJI</displayName>
+   </concept>
+   <concept code="FLK">
+      <displayName>FALKLAND ISLANDS (MALVINAS)</displayName>
+   </concept>
+   <concept code="FRA">
+      <displayName>FRANCE</displayName>
+   </concept>
+   <concept code="FRO">
+      <displayName>FAROE ISLANDS</displayName>
+   </concept>
+   <concept code="FSM">
+      <displayName>MICRONESIA, FEDERATED STATES OF</displayName>
+   </concept>
+   <concept code="GAB">
+      <displayName>GABON</displayName>
+   </concept>
+   <concept code="GBR">
+      <displayName>UNITED KINGDOM</displayName>
+   </concept>
+   <concept code="GEO">
+      <displayName>GEORGIA</displayName>
+   </concept>
+   <concept code="GHA">
+      <displayName>GHANA</displayName>
+   </concept>
+   <concept code="GIB">
+      <displayName>GIBRALTAR</displayName>
+   </concept>
+   <concept code="GIN">
+      <displayName>GUINEA</displayName>
+   </concept>
+   <concept code="GLP">
+      <displayName>GUADELOUPE</displayName>
+   </concept>
+   <concept code="GMB">
+      <displayName>GAMBIA</displayName>
+   </concept>
+   <concept code="GNB">
+      <displayName>GUINEA-BISSAU</displayName>
+   </concept>
+   <concept code="GNQ">
+      <displayName>EQUATORIAL GUINEA</displayName>
+   </concept>
+   <concept code="GRC">
+      <displayName>GREECE</displayName>
+   </concept>
+   <concept code="GRD">
+      <displayName>GRENADA</displayName>
+   </concept>
+   <concept code="GRL">
+      <displayName>GREENLAND</displayName>
+   </concept>
+   <concept code="GTM">
+      <displayName>GUATEMALA</displayName>
+   </concept>
+   <concept code="GUF">
+      <displayName>FRENCH GUIANA</displayName>
+   </concept>
+   <concept code="GUM">
+      <displayName>GUAM</displayName>
+   </concept>
+   <concept code="GUY">
+      <displayName>GUYANA</displayName>
+   </concept>
+   <concept code="HKG">
+      <displayName>HONG KONG</displayName>
+   </concept>
+   <concept code="HMD">
+      <displayName>HEARD ISLAND AND MCDONALD ISLANDS</displayName>
+   </concept>
+   <concept code="HND">
+      <displayName>HONDURAS</displayName>
+   </concept>
+   <concept code="HRV">
+      <displayName>CROATIA</displayName>
+   </concept>
+   <concept code="HTI">
+      <displayName>HAITI</displayName>
+   </concept>
+   <concept code="HUN">
+      <displayName>HUNGARY</displayName>
+   </concept>
+   <concept code="IDN">
+      <displayName>INDONESIA</displayName>
+   </concept>
+   <concept code="IND">
+      <displayName>INDIA</displayName>
+   </concept>
+   <concept code="IOT">
+      <displayName>BRITISH INDIAN OCEAN TERRITORY</displayName>
+   </concept>
+   <concept code="IRL">
+      <displayName>IRELAND</displayName>
+   </concept>
+   <concept code="IRN">
+      <displayName>IRAN, ISLAMIC REPUBLIC OF</displayName>
+   </concept>
+   <concept code="IRQ">
+      <displayName>IRAQ</displayName>
+   </concept>
+   <concept code="ISL">
+      <displayName>ICELAND</displayName>
+   </concept>
+   <concept code="ISR">
+      <displayName>ISRAEL</displayName>
+   </concept>
+   <concept code="ITA">
+      <displayName>ITALY</displayName>
+   </concept>
+   <concept code="JAM">
+      <displayName>JAMAICA</displayName>
+   </concept>
+   <concept code="JOR">
+      <displayName>JORDAN</displayName>
+   </concept>
+   <concept code="JPN">
+      <displayName>JAPAN</displayName>
+   </concept>
+   <concept code="KAZ">
+      <displayName>KAZAKSTAN</displayName>
+   </concept>
+   <concept code="KEN">
+      <displayName>KENYA</displayName>
+   </concept>
+   <concept code="KGZ">
+      <displayName>KYRGYZSTAN</displayName>
+   </concept>
+   <concept code="KHM">
+      <displayName>CAMBODIA</displayName>
+   </concept>
+   <concept code="KIR">
+      <displayName>KIRIBATI</displayName>
+   </concept>
+   <concept code="KNA">
+      <displayName>SAINT KITTS AND NEVIS</displayName>
+   </concept>
+   <concept code="KOR">
+      <displayName>KOREA, REPUBLIC OF</displayName>
+   </concept>
+   <concept code="KWT">
+      <displayName>KUWAIT</displayName>
+   </concept>
+   <concept code="LAO">
+      <displayName>LAO PEOPLE'S DEMOCRATIC REPUBLIC</displayName>
+   </concept>
+   <concept code="LBN">
+      <displayName>LEBANNON</displayName>
+   </concept>
+   <concept code="LBR">
+      <displayName>LIBERIA</displayName>
+   </concept>
+   <concept code="LBY">
+      <displayName>LIBYAN ARAB JAMAHIRIYA</displayName>
+   </concept>
+   <concept code="LCA">
+      <displayName>SAINT LUCIA</displayName>
+   </concept>
+   <concept code="LIE">
+      <displayName>LIECHTENSTEIN</displayName>
+   </concept>
+   <concept code="LKA">
+      <displayName>SRI LANKA</displayName>
+   </concept>
+   <concept code="LSO">
+      <displayName>LESOTHO</displayName>
+   </concept>
+   <concept code="LTU">
+      <displayName>LITHUANIA</displayName>
+   </concept>
+   <concept code="LUX">
+      <displayName>LUXEMBOURG</displayName>
+   </concept>
+   <concept code="LVA">
+      <displayName>LATIVA</displayName>
+   </concept>
+   <concept code="MAC">
+      <displayName>MACAU</displayName>
+   </concept>
+   <concept code="MAR">
+      <displayName>MOROCCO</displayName>
+   </concept>
+   <concept code="MCO">
+      <displayName>MONACO</displayName>
+   </concept>
+   <concept code="MDA">
+      <displayName>MOLDOVA, REPUBLIC OF</displayName>
+   </concept>
+   <concept code="MDG">
+      <displayName>MADAGASCAR</displayName>
+   </concept>
+   <concept code="MDV">
+      <displayName>MALDIVES</displayName>
+   </concept>
+   <concept code="MEX">
+      <displayName>MEXICO</displayName>
+   </concept>
+   <concept code="MHL">
+      <displayName>MARSHALL ISLANDS</displayName>
+   </concept>
+   <concept code="MKD">
+      <displayName>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</displayName>
+   </concept>
+   <concept code="MLI">
+      <displayName>MALI</displayName>
+   </concept>
+   <concept code="MLT">
+      <displayName>MALTA</displayName>
+   </concept>
+   <concept code="MMR">
+      <displayName>MYANMAR</displayName>
+   </concept>
+   <concept code="MNG">
+      <displayName>MONGOLIA</displayName>
+   </concept>
+   <concept code="MNP">
+      <displayName>NORTHERN MARIANA ISLANDS</displayName>
+   </concept>
+   <concept code="MOZ">
+      <displayName>MOZAMBIQUE</displayName>
+   </concept>
+   <concept code="MRT">
+      <displayName>MAURITANIA</displayName>
+   </concept>
+   <concept code="MSR">
+      <displayName>MONTSERRAT</displayName>
+   </concept>
+   <concept code="MTQ">
+      <displayName>MARTINIQUE</displayName>
+   </concept>
+   <concept code="MUS">
+      <displayName>MAURITUS</displayName>
+   </concept>
+   <concept code="MWI">
+      <displayName>MALAWI</displayName>
+   </concept>
+   <concept code="MYS">
+      <displayName>MALAYSIA</displayName>
+   </concept>
+   <concept code="MYT">
+      <displayName>MAYOTTE</displayName>
+   </concept>
+   <concept code="NAM">
+      <displayName>NAMIBIA</displayName>
+   </concept>
+   <concept code="NCL">
+      <displayName>NEW CALEDONIA</displayName>
+   </concept>
+   <concept code="NER">
+      <displayName>NIGER</displayName>
+   </concept>
+   <concept code="NFK">
+      <displayName>NORFOLK ISLAND</displayName>
+   </concept>
+   <concept code="NGA">
+      <displayName>NIGERIA</displayName>
+   </concept>
+   <concept code="NIC">
+      <displayName>NICARAGUA</displayName>
+   </concept>
+   <concept code="NIU">
+      <displayName>NIUE</displayName>
+   </concept>
+   <concept code="NLD">
+      <displayName>NETHERLANDS</displayName>
+   </concept>
+   <concept code="NOR">
+      <displayName>NORWAY</displayName>
+   </concept>
+   <concept code="NPL">
+      <displayName>NEPAL</displayName>
+   </concept>
+   <concept code="NRU">
+      <displayName>NAURU</displayName>
+   </concept>
+   <concept code="NZL">
+      <displayName>NEW ZEALAND</displayName>
+   </concept>
+   <concept code="OMN">
+      <displayName>OMAN</displayName>
+   </concept>
+   <concept code="PAK">
+      <displayName>PAKISTAN</displayName>
+   </concept>
+   <concept code="PAN">
+      <displayName>PANAMA</displayName>
+   </concept>
+   <concept code="PCN">
+      <displayName>PITCAIRN</displayName>
+   </concept>
+   <concept code="PER">
+      <displayName>PERU</displayName>
+   </concept>
+   <concept code="PHL">
+      <displayName>PHILIPPINES</displayName>
+   </concept>
+   <concept code="PLW">
+      <displayName>PALAU</displayName>
+   </concept>
+   <concept code="PNG">
+      <displayName>PAPUA NEW GUINEA</displayName>
+   </concept>
+   <concept code="POL">
+      <displayName>POLAND</displayName>
+   </concept>
+   <concept code="PRI">
+      <displayName>PUERTO RICO</displayName>
+   </concept>
+   <concept code="PRK">
+      <displayName>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</displayName>
+   </concept>
+   <concept code="PRT">
+      <displayName>PORTUGAL</displayName>
+   </concept>
+   <concept code="PRY">
+      <displayName>PARAGUAY</displayName>
+   </concept>
+   <concept code="PYF">
+      <displayName>FRENCH POLYNESIA</displayName>
+   </concept>
+   <concept code="QAT">
+      <displayName>QATAR</displayName>
+   </concept>
+   <concept code="REU">
+      <displayName>REUNION</displayName>
+   </concept>
+   <concept code="ROM">
+      <displayName>ROMANIA</displayName>
+   </concept>
+   <concept code="RUS">
+      <displayName>RUSSIAN FEDERATION</displayName>
+   </concept>
+   <concept code="RWA">
+      <displayName>RWANDA</displayName>
+   </concept>
+   <concept code="SAU">
+      <displayName>SAUDI ARABIA</displayName>
+   </concept>
+   <concept code="SDN">
+      <displayName>SUDAN</displayName>
+   </concept>
+   <concept code="SEN">
+      <displayName>SENEGAL</displayName>
+   </concept>
+   <concept code="SGP">
+      <displayName>SINGAPORE</displayName>
+   </concept>
+   <concept code="SGS">
+      <displayName>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</displayName>
+   </concept>
+   <concept code="SHN">
+      <displayName>SAINT HELENA</displayName>
+   </concept>
+   <concept code="SJM">
+      <displayName>SVALBARD AND JAN MAYEN</displayName>
+   </concept>
+   <concept code="SLB">
+      <displayName>SOLOMON ISLANDS</displayName>
+   </concept>
+   <concept code="SLE">
+      <displayName>SIERRA LEONE</displayName>
+   </concept>
+   <concept code="SLV">
+      <displayName>EL SALVADOR</displayName>
+   </concept>
+   <concept code="SMR">
+      <displayName>SAN MARINO</displayName>
+   </concept>
+   <concept code="SOM">
+      <displayName>SOMALIA</displayName>
+   </concept>
+   <concept code="SPM">
+      <displayName>SAINT PIERRE AND MIQUELON</displayName>
+   </concept>
+   <concept code="STP">
+      <displayName>SAO TOME AND PRINCIPE</displayName>
+   </concept>
+   <concept code="SUR">
+      <displayName>SURINAME</displayName>
+   </concept>
+   <concept code="SVK">
+      <displayName>SLOVAKIA</displayName>
+   </concept>
+   <concept code="SVN">
+      <displayName>SLOVENIA</displayName>
+   </concept>
+   <concept code="SWE">
+      <displayName>SWEDEN</displayName>
+   </concept>
+   <concept code="SWZ">
+      <displayName>SWAZILAND</displayName>
+   </concept>
+   <concept code="SYC">
+      <displayName>SEYCHELLES</displayName>
+   </concept>
+   <concept code="SYR">
+      <displayName>SYRIAN ARAB REPUBLIC</displayName>
+   </concept>
+   <concept code="TCA">
+      <displayName>TURKS AND CAICOS ISLANDS</displayName>
+   </concept>
+   <concept code="TCD">
+      <displayName>CHAD</displayName>
+   </concept>
+   <concept code="TGO">
+      <displayName>TOGO</displayName>
+   </concept>
+   <concept code="THA">
+      <displayName>THAILAND</displayName>
+   </concept>
+   <concept code="TJK">
+      <displayName>TAJIKISTAN</displayName>
+   </concept>
+   <concept code="TKL">
+      <displayName>TOKELAU</displayName>
+   </concept>
+   <concept code="TKM">
+      <displayName>TURKMENISTAN</displayName>
+   </concept>
+   <concept code="TMP">
+      <displayName>EAST TIMOR</displayName>
+   </concept>
+   <concept code="TON">
+      <displayName>TONGA</displayName>
+   </concept>
+   <concept code="TTO">
+      <displayName>TRINIDAD AND TOBAGO</displayName>
+   </concept>
+   <concept code="TUN">
+      <displayName>TUNISIA</displayName>
+   </concept>
+   <concept code="TUR">
+      <displayName>TURKEY</displayName>
+   </concept>
+   <concept code="TUV">
+      <displayName>TUVALU</displayName>
+   </concept>
+   <concept code="TWN">
+      <displayName>TAIWAN, PROVINCE OF CHINA</displayName>
+   </concept>
+   <concept code="TZA">
+      <displayName>TANZANIA, UNITED REPUBLIC OF</displayName>
+   </concept>
+   <concept code="UGA">
+      <displayName>UGANDA</displayName>
+   </concept>
+   <concept code="UKR">
+      <displayName>UKRAINE</displayName>
+   </concept>
+   <concept code="UMI">
+      <displayName>UNITED STATES MINOR OUTLYING ISLANDS</displayName>
+   </concept>
+   <concept code="URY">
+      <displayName>URUGUAY</displayName>
+   </concept>
+   <concept code="USA">
+      <displayName>UNITED STATES</displayName>
+   </concept>
+   <concept code="UZB">
+      <displayName>UZBEKISTAN</displayName>
+   </concept>
+   <concept code="VAT">
+      <displayName>HOLY SEE (VATICAN CITY STATE)</displayName>
+   </concept>
+   <concept code="VCT">
+      <displayName>SAINT VINCENT AND THE GRENADINES</displayName>
+   </concept>
+   <concept code="VEN">
+      <displayName>VENEZUELA</displayName>
+   </concept>
+   <concept code="VGB">
+      <displayName>VIRGIN ISLANDS, BRITISH</displayName>
+   </concept>
+   <concept code="VIR">
+      <displayName>VIRGIN ISLANDS, U.S.</displayName>
+   </concept>
+   <concept code="VNM">
+      <displayName>VIET NAM</displayName>
+   </concept>
+   <concept code="VUT">
+      <displayName>VANUATU</displayName>
+   </concept>
+   <concept code="WLF">
+      <displayName>WALLIS AND FUTUNA</displayName>
+   </concept>
+   <concept code="WSM">
+      <displayName>SAMOA</displayName>
+   </concept>
+   <concept code="YEM">
+      <displayName>YEMEN</displayName>
+   </concept>
+   <concept code="YUG">
+      <displayName>YUGOSLAVIA</displayName>
+   </concept>
+   <concept code="ZAF">
+      <displayName>SOUTH AFRICA</displayName>
+   </concept>
+   <concept code="ZMB">
+      <displayName>ZAMBIA</displayName>
+   </concept>
+   <concept code="ZWE">
+      <displayName>ZIMBABWE</displayName>
+   </concept>
+</vocabulary>
