@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ModifyIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.12.395">
+   <concept code="M">
+      <displayName>Modified Subscription</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>New Subscription</displayName>
+   </concept>
+</vocabulary>

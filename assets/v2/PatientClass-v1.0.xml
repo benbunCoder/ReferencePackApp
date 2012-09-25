@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PatientClass" version="1.0" status="created" id="2.16.840.1.113883.12.4">
+   <concept code="B">
+      <displayName>Obstetrics</displayName>
+   </concept>
+   <concept code="C">
+      <displayName>Commercial Account</displayName>
+   </concept>
+   <concept code="E">
+      <displayName>Emergency</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Inpatient</displayName>
+   </concept>
+   <concept code="N">
+      <displayName>Not Applicable</displayName>
+   </concept>
+   <concept code="O">
+      <displayName>Outpatient</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Preadmit</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Recurring patient</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Unknown</displayName>
+   </concept>
+   <concept code="W">
+      <displayName>Waiting List</displayName>
+   </concept>
+</vocabulary>
