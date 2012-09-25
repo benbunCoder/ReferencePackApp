@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="MatchAlgorithms" version="1.0" status="created"
+            id="2.16.840.1.113883.12.393">
+   <concept code="LINKSOFT_2.01">
+      <displayName>Proprietary algorithm for LinkSoft v2.01</displayName>
+   </concept>
+   <concept code="MATCHWARE_1.2">
+      <displayName>Proprietary algorithm for MatchWare v1.2</displayName>
+   </concept>
+</vocabulary>

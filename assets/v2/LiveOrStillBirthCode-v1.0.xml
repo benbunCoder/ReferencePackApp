@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LiveOrStillBirthCode" version="1.0" status="created"
+            id="2.16.840.1.113883.2.1.9.46">
+   <concept code="1">
+      <displayName>Live</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Still birth ante-partum</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Still birth intra-partum</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Still birth indeterminate</displayName>
+   </concept>
+</vocabulary>
