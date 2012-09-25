@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcedureFunctionalType" version="1.0" status="created"
+            id="2.16.840.1.113883.12.230">
+   <concept code="A">
+      <displayName>Anesthesia</displayName>
+   </concept>
+   <concept code="D">
+      <displayName>Diagnostic procedure</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Invasive procedure not classified elsewhere (e.g., IV, catheter, etc.)</displayName>
+   </concept>
+   <concept code="P">
+      <displayName>Procedure for treatment (therapeutic, including operations)</displayName>
+   </concept>
+</vocabulary>

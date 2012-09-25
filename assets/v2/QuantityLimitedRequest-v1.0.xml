@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QuantityLimitedRequest" version="1.0" status="created"
+            id="2.16.840.1.113883.12.126">
+   <concept code="CH">
+      <displayName>Characters</displayName>
+   </concept>
+   <concept code="LI">
+      <displayName>Lines</displayName>
+   </concept>
+   <concept code="PG">
+      <displayName>Pages</displayName>
+   </concept>
+   <concept code="RD">
+      <displayName>Records</displayName>
+   </concept>
+   <concept code="ZO">
+      <displayName>Locally defined</displayName>
+   </concept>
+</vocabulary>

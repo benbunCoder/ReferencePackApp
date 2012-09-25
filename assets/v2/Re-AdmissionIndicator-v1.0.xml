@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Re-AdmissionIndicator" version="1.0" status="created"
+            id="2.16.840.1.113883.12.92">
+   <concept code="R">
+      <displayName>Re-admission</displayName>
+   </concept>
+</vocabulary>

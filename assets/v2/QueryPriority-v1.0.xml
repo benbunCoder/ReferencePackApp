@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryPriority" version="1.0" status="created"
+            id="2.16.840.1.113883.12.91">
+   <concept code="D">
+      <displayName>Deferred</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Immediate</displayName>
+   </concept>
+</vocabulary>

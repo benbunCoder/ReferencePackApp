@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="QueryResponseStatus" version="1.0" status="created"
+            id="2.16.840.1.113883.12.208">
+   <concept code="AE">
+      <displayName>Application error</displayName>
+   </concept>
+   <concept code="AR">
+      <displayName>Application reject</displayName>
+   </concept>
+   <concept code="NF">
+      <displayName>No data found, no errors</displayName>
+   </concept>
+   <concept code="OK">
+      <displayName>Data found, no errors (this is the default)</displayName>
+   </concept>
+</vocabulary>
