@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Smoking" type="Realm Concept" setId="44421000000136"          
+version="12" id="931000000135" memberCount="6" status="Active"                  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                          
+<concept code="230058003">                                                      
+<displayName lang="en" type="PT">Pipe tobacco consumption</displayName>         
+<displayName lang="en" type="FSN">Pipe tobacco consumption (observable          
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="230056004">                                                      
+<displayName lang="en" type="PT">Cigarette consumption</displayName>            
+<displayName lang="en" type="FSN">Cigarette consumption (observable             
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="266920004">                                                      
+<displayName lang="en" type="PT">Trivial cigarette smoker (less than one        
+cigarette/day)</displayName>                                                    
+<displayName lang="en" type="FSN">Trivial cigarette smoker (less than one       
+cigarette/day) (finding)</displayName>                                          
+<displayName lang="en" type="SY">Occasional cigarette smoker (less than one     
+cigarette/day)</displayName>                                                    
+<displayName lang="en" type="SY">Occasional smoker</displayName>                
+</concept>                                                                      
+<concept code="266919005">                                                      
+<displayName lang="en" type="PT">Never smoked tobacco</displayName>             
+<displayName lang="en" type="FSN">Never smoked tobacco (finding)</displayName>  
+<displayName lang="en" type="SY">Never smoked</displayName>                     
+</concept>                                                                      
+<concept code="8392000">                                                        
+<displayName lang="en" type="PT">Non-smoker</displayName>                       
+<displayName lang="en" type="FSN">Non-smoker (finding)</displayName>            
+</concept>                                                                      
+<concept code="230057008">                                                      
+<displayName lang="en" type="PT">Cigar consumption</displayName>                
+<displayName lang="en" type="FSN">Cigar consumption (observable                 
+entity)</displayName>                                                           
+</concept>                                                                      
+</vocabulary>                                                                   

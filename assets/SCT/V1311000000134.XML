@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Administration Medication" type="Realm Concept"               
+setId="45211000000130" version="11" id="1311000000134" memberCount="25"         
+status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">          
+<concept code="243132000">                                                      
+<displayName lang="en" type="PT">Inhaled drug administration</displayName>      
+<displayName lang="en" type="FSN">Inhaled drug administration                   
+(procedure)</displayName>                                                       
+<displayName lang="en" type="SY">Medication administration:                     
+inhalation</displayName>                                                        
+</concept>                                                                      
+<concept code="386350007">                                                      
+<displayName lang="en" type="PT">Administration of drug or medicament via otic  
+route</displayName>                                                             
+<displayName lang="en" type="FSN">Administration of drug or medicament via otic 
+route (procedure)</displayName>                                                 
+</concept>                                                                      
+<concept code="386363001">                                                      
+<displayName lang="en" type="PT">Medication administration:                     
+vaginal</displayName>                                                           
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+vaginal route (procedure)</displayName>                                         
+<displayName lang="en" type="SY">Administration of drug or medicament via       
+vaginal route</displayName>                                                     
+</concept>                                                                      
+<concept code="394904004">                                                      
+<displayName lang="en" type="PT">Transdermal administration of                  
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Transdermal administration of treatment       
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="406172003">                                                      
+<displayName lang="en" type="PT">Medication administration: nasal</displayName> 
+<displayName lang="en" type="FSN">Administration of drug or medicament via nasal
+route (procedure)</displayName>                                                 
+<displayName lang="en" type="SY">Administration of drug or medicament via nasal 
+route</displayName>                                                             
+</concept>                                                                      
+<concept code="419054001">                                                      
+<displayName lang="en" type="PT">Sublingual administration of                   
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Sublingual administration of treatment        
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="419907002">                                                      
+<displayName lang="en" type="PT">Nasogastric administration of                  
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Nasogastric administration of treatment       
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="432102000">                                                      
+<displayName lang="en" type="PT">Administration of substance</displayName>      
+<displayName lang="en" type="FSN">Administration of substance                   
+(procedure)</displayName>                                                       
+</concept>                                                                      
+<concept code="18629005">                                                       
+<displayName lang="en" type="PT">Administration of medication</displayName>     
+<displayName lang="en" type="FSN">Administration of drug or medicament          
+(procedure)</displayName>                                                       
+<displayName lang="en" type="SY">Medication treatment</displayName>             
+<displayName lang="en" type="SY">Giving medication</displayName>                
+<displayName lang="en" type="SY">Administration of drug or                      
+medicament</displayName>                                                        
+<displayName lang="en" type="SY">Medication administration</displayName>        
+<displayName lang="en" type="SY">Medication administration treatments and       
+procedures</displayName>                                                        
+</concept>                                                                      
+<concept code="386352004">                                                      
+<displayName lang="en" type="PT">Administration of drug or medicament via       
+epidural route</displayName>                                                    
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+epidural route (procedure)</displayName>                                        
+<displayName lang="en" type="SY">Medication administration:                     
+epidural</displayName>                                                          
+</concept>                                                                      
+<concept code="394903005">                                                      
+<displayName lang="en" type="PT">Intravenous administration of                  
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Intravenous administration of treatment       
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="418004004">                                                      
+<displayName lang="en" type="PT">Gingival administration of                     
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Gingival administration of treatment          
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="419408001">                                                      
+<displayName lang="en" type="PT">Topical administration of                      
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Topical administration of treatment           
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="386353009">                                                      
+<displayName lang="en" type="PT">Administration of drug or medicament via       
+ophthalmic route</displayName>                                                  
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+ophthalmic route (procedure)</displayName>                                      
+</concept>                                                                      
+<concept code="420191001">                                                      
+<displayName lang="en" type="PT">Urethral administration of                     
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Urethral administration of treatment          
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="386355002">                                                      
+<displayName lang="en" type="PT">Medication administration:                     
+intradermal</displayName>                                                       
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+intradermal route (procedure)</displayName>                                     
+<displayName lang="en" type="SY">Administration of drug or medicament via       
+intradermal route</displayName>                                                 
+</concept>                                                                      
+<concept code="386360003">                                                      
+<displayName lang="en" type="PT">Medication administration: rectal</displayName>
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+rectal route (procedure)</displayName>                                          
+<displayName lang="en" type="SY">Administration of drug or medicament via rectal
+route</displayName>                                                             
+</concept>                                                                      
+<concept code="394899003">                                                      
+<displayName lang="en" type="PT">Oral administration of treatment</displayName> 
+<displayName lang="en" type="FSN">Oral administration of treatment (navigational
+concept)</displayName>                                                          
+<displayName lang="en" type="SY">Treatment administered orally</displayName>    
+</concept>                                                                      
+<concept code="418904002">                                                      
+<displayName lang="en" type="PT">Intracavernous administration of               
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Intracavernous administration of treatment    
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="386356001">                                                      
+<displayName lang="en" type="PT">Medication administration:                     
+intramuscular</displayName>                                                     
+<displayName lang="en" type="FSN">Administration of drug or medicament via      
+intramuscular route (procedure)</displayName>                                   
+<displayName lang="en" type="SY">Administration of drug or medicament via       
+intramuscular route</displayName>                                               
+<displayName lang="en" type="SY">Medication administration: intramuscular       
+(IM)</displayName>                                                              
+</concept>                                                                      
+<concept code="418207003">                                                      
+<displayName lang="en" type="PT">Treatment administration by                    
+irrigation</displayName>                                                        
+<displayName lang="en" type="FSN">Treatment administration by irrigation        
+(procedure)</displayName>                                                       
+</concept>                                                                      
+<concept code="394901007">                                                      
+<displayName lang="en" type="PT">Subcutaneous administration of                 
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Subcutaneous administration of treatment      
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="418660006">                                                      
+<displayName lang="en" type="PT">Buccal administration of                       
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Buccal administration of treatment            
+(navigational concept)</displayName>                                            
+</concept>                                                                      
+<concept code="363186003">                                                      
+<displayName lang="en" type="PT">Introduction of substance by body              
+site</displayName>                                                              
+<displayName lang="en" type="FSN">Introduction of substance by body site        
+(procedure)</displayName>                                                       
+</concept>                                                                      
+<concept code="418442001">                                                      
+<displayName lang="en" type="PT">Intravesical administration of                 
+treatment</displayName>                                                         
+<displayName lang="en" type="FSN">Intravesical administration of treatment into 
+bladder (navigational concept)</displayName>                                    
+<displayName lang="en" type="SY">Intravesical administration of treatment into  
+bladder</displayName>                                                           
+</concept>                                                                      
+</vocabulary>                                                                   

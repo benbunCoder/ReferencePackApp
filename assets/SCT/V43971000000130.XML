@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Correspondence Care setting type" type="Realm Concept"        
+setId="43971000000130" version="1" id="43971000000130" memberCount="212"        
+status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">          
+<concept code="310004004">                                                      
+<displayName lang="en" type="PT">Audiological service</displayName>             
+<displayName lang="en" type="FSN">Audiological service (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310015009">                                                      
+<displayName lang="en" type="PT">Hearing aid service</displayName>              
+<displayName lang="en" type="FSN">Hearing aid service (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310067008">                                                      
+<displayName lang="en-GB" type="PT">Community paediatric service</displayName>  
+<displayName lang="en" type="FSN">Community pediatric service (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310093001">                                                      
+<displayName lang="en" type="PT">Occupational therapy service</displayName>     
+<displayName lang="en" type="FSN">Occupational therapy service (qualifier       
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310126000">                                                      
+<displayName lang="en" type="PT">Breast screening service</displayName>         
+<displayName lang="en" type="FSN">Breast screening service (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394580004">                                                      
+<displayName lang="en" type="PT">Clinical genetics</displayName>                
+<displayName lang="en" type="FSN">Clinical genetics (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394581000">                                                      
+<displayName lang="en" type="PT">Community medicine</displayName>               
+<displayName lang="en" type="FSN">Community medicine (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394589003">                                                      
+<displayName lang="en" type="PT">Nephrology</displayName>                       
+<displayName lang="en" type="FSN">Nephrology (qualifier value)</displayName>    
+<displayName lang="en" type="SY">Renal medicine</displayName>                   
+</concept>                                                                      
+<concept code="394601005">                                                      
+<displayName lang="en" type="PT">Clinical physiology</displayName>              
+<displayName lang="en" type="FSN">Clinical physiology (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408439002">                                                      
+<displayName lang="en-GB" type="PT">Allergy - speciality</displayName>          
+<displayName lang="en" type="FSN">Allergy - specialty (qualifier                
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Allergy</displayName>                          
+</concept>                                                                      
+<concept code="408460008">                                                      
+<displayName lang="en" type="PT">Prosthodontics</displayName>                   
+<displayName lang="en" type="FSN">Prosthodontics (qualifier value)</displayName>
+<displayName lang="en" type="SY">Prosthetic dentistry</displayName>             
+</concept>                                                                      
+<concept code="408465003">                                                      
+<displayName lang="en" type="PT">Oral and maxillofacial surgery</displayName>   
+<displayName lang="en" type="FSN">Oral and maxillofacial surgery (qualifier     
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Dental and maxillofacial surgery</displayName> 
+</concept>                                                                      
+<concept code="408473007">                                                      
+<displayName lang="en" type="PT">Public health dentistry</displayName>          
+<displayName lang="en" type="FSN">Public health dentistry (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408474001">                                                      
+<displayName lang="en" type="PT">Hepatobiliary and pancreatic                   
+surgery</displayName>                                                           
+<displayName lang="en" type="FSN">Hepatobiliary and pancreatic surgery          
+(qualifier value)</displayName>                                                 
+</concept>                                                                      
+<concept code="418862001">                                                      
+<displayName lang="en-GB" type="PT">Paediatric infectious diseases</displayName>
+<displayName lang="en" type="FSN">Pediatric infectious diseases (qualifier      
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="419472004">                                                      
+<displayName lang="en-GB" type="PT">Paediatric rheumatology</displayName>       
+<displayName lang="en" type="FSN">Pediatric rheumatology (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="90741000000103">                                                 
+<displayName lang="en-GB" type="PT">Midwife episode - specialty</displayName>   
+<displayName lang="en-GB" type="FSN">Midwife episode - specialty (qualifier     
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Midwifery speciality</displayName>             
+</concept>                                                                      
+<concept code="827611000000102">                                                
+<displayName lang="en" type="PT">Acute medicine</displayName>                   
+<displayName lang="en" type="FSN">Acute medicine (qualifier value)</displayName>
+</concept>                                                                      
+<concept code="827631000000105">                                                
+<displayName lang="en" type="PT">Emergency ambulance service</displayName>      
+<displayName lang="en" type="FSN">Emergency ambulance service (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827981000000103">                                                
+<displayName lang="en" type="PT">Paediatric cystic fibrosis                     
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Paediatric cystic fibrosis service (qualifier 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828161000000105">                                                
+<displayName lang="en" type="PT">Dental and maxillofacial                       
+radiology</displayName>                                                         
+<displayName lang="en" type="FSN">Dental and maxillofacial radiology (qualifier 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828171000000103">                                                
+<displayName lang="en" type="PT">Paediatric interventional                      
+radiology</displayName>                                                         
+<displayName lang="en" type="FSN">Paediatric interventional radiology (qualifier
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828261000000103">                                                
+<displayName lang="en" type="PT">Stroke medicine</displayName>                  
+<displayName lang="en" type="FSN">Stroke medicine (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828271000000105">                                                
+<displayName lang="en" type="PT">Diagnostic imaging - specialty</displayName>   
+<displayName lang="en" type="FSN">Diagnostic imaging - specialty (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828331000000102">                                                
+<displayName lang="en" type="PT">Homeopathy service</displayName>               
+<displayName lang="en" type="FSN">Homeopathy service (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828381000000103">                                                
+<displayName lang="en" type="PT">Well woman service</displayName>               
+<displayName lang="en" type="FSN">Well woman service (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828411000000101">                                                
+<displayName lang="en" type="PT">Children&apos;s nursing</displayName>          
+<displayName lang="en" type="FSN">Children&apos;s nursing (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828821000000105">                                                
+<displayName lang="en" type="PT">Adolescent psychiatry service</displayName>    
+<displayName lang="en" type="FSN">Adolescent psychiatry service (qualifier      
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828901000000109">                                                
+<displayName lang="en" type="PT">Endocrinology and diabetes</displayName>       
+<displayName lang="en" type="FSN">Endocrinology and diabetes (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828941000000107">                                                
+<displayName lang="en" type="PT">Oral microbiology</displayName>                
+<displayName lang="en" type="FSN">Oral microbiology (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829151000000100">                                                
+<displayName lang="en" type="PT">Prosthetics or orthotics</displayName>         
+<displayName lang="en" type="FSN">Prosthetics or orthotics (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310085001">                                                      
+<displayName lang="en" type="PT">Drama therapy service</displayName>            
+<displayName lang="en" type="FSN">Drama therapy service (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310109006">                                                      
+<displayName lang="en" type="PT">Orthotics service</displayName>                
+<displayName lang="en" type="FSN">Orthotics service (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394582007">                                                      
+<displayName lang="en" type="PT">Dermatology</displayName>                      
+<displayName lang="en" type="FSN">Dermatology (qualifier value)</displayName>   
+</concept>                                                                      
+<concept code="394587001">                                                      
+<displayName lang="en" type="PT">Psychiatry</displayName>                       
+<displayName lang="en" type="FSN">Psychiatry (qualifier value)</displayName>    
+</concept>                                                                      
+<concept code="394598000">                                                      
+<displayName lang="en" type="PT">Immunopathology</displayName>                  
+<displayName lang="en" type="FSN">Immunopathology (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394605001">                                                      
+<displayName lang="en" type="PT">Oral surgery</displayName>                     
+<displayName lang="en" type="FSN">Oral surgery (qualifier value)</displayName>  
+</concept>                                                                      
+<concept code="394606000">                                                      
+<displayName lang="en" type="PT">Restorative dentistry</displayName>            
+<displayName lang="en" type="FSN">Restorative dentistry (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394803006">                                                      
+<displayName lang="en-GB" type="PT">Clinical haematology</displayName>          
+<displayName lang="en" type="FSN">Clinical hematology (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394810000">                                                      
+<displayName lang="en" type="PT">Rheumatology</displayName>                     
+<displayName lang="en" type="FSN">Rheumatology (qualifier value)</displayName>  
+</concept>                                                                      
+<concept code="394821009">                                                      
+<displayName lang="en" type="PT">Occupational medicine</displayName>            
+<displayName lang="en" type="FSN">Occupational medicine (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408461007">                                                      
+<displayName lang="en" type="PT">Periodontics</displayName>                     
+<displayName lang="en" type="FSN">Periodontics (qualifier value)</displayName>  
+<displayName lang="en" type="SY">Periodontology</displayName>                   
+</concept>                                                                      
+<concept code="408467006">                                                      
+<displayName lang="en-GB" type="PT">Adult mental illness -                      
+speciality</displayName>                                                        
+<displayName lang="en" type="FSN">Adult mental illness - specialty (qualifier   
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Adult psychiatry</displayName>                 
+</concept>                                                                      
+<concept code="408470005">                                                      
+<displayName lang="en" type="PT">Obstetrics</displayName>                       
+<displayName lang="en" type="FSN">Obstetrics (qualifier value)</displayName>    
+<displayName lang="en" type="SY">Maternity care</displayName>                   
+</concept>                                                                      
+<concept code="408475000">                                                      
+<displayName lang="en" type="PT">Diabetic medicine</displayName>                
+<displayName lang="en" type="FSN">Diabetic medicine (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="418058008">                                                      
+<displayName lang="en-GB" type="PT">Paediatric gastroenterology</displayName>   
+<displayName lang="en" type="FSN">Pediatric gastroenterology (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="419365004">                                                      
+<displayName lang="en-GB" type="PT">Paediatric nephrology</displayName>         
+<displayName lang="en" type="FSN">Pediatric nephrology (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="419610006">                                                      
+<displayName lang="en-GB" type="PT">Paediatric endocrinology</displayName>      
+<displayName lang="en" type="FSN">Pediatric endocrinology (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="445715009">                                                      
+<displayName lang="en" type="PT">Blood and marrow transplantation</displayName> 
+<displayName lang="en" type="FSN">Blood and marrow transplantation (qualifier   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827991000000101">                                                
+<displayName lang="en" type="PT">Paediatric dermatology</displayName>           
+<displayName lang="en" type="FSN">Paediatric dermatology (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828151000000107">                                                
+<displayName lang="en" type="PT">Audiometry</displayName>                       
+<displayName lang="en" type="FSN">Audiometry (qualifier value)</displayName>    
+</concept>                                                                      
+<concept code="828241000000104">                                                
+<displayName lang="en" type="PT">Paediatric trauma and                          
+orthopaedics</displayName>                                                      
+<displayName lang="en" type="FSN">Paediatric trauma and orthopaedics (qualifier 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828281000000107">                                                
+<displayName lang="en" type="PT">Eating disorders service</displayName>         
+<displayName lang="en" type="FSN">Eating disorders service (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828341000000106">                                                
+<displayName lang="en" type="PT">Learning disability nursing</displayName>      
+<displayName lang="en" type="FSN">Learning disability nursing (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828361000000107">                                                
+<displayName lang="en" type="PT">Mental health nursing</displayName>            
+<displayName lang="en" type="FSN">Mental health nursing (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828441000000100">                                                
+<displayName lang="en" type="PT">Paediatric pain management</displayName>       
+<displayName lang="en" type="FSN">Paediatric pain management (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828811000000104">                                                
+<displayName lang="en" type="PT">Child psychiatry service</displayName>         
+<displayName lang="en" type="FSN">Child psychiatry service (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828911000000106">                                                
+<displayName lang="en" type="PT">Surgical podiatry</displayName>                
+<displayName lang="en" type="FSN">Surgical podiatry (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829141000000103">                                                
+<displayName lang="en" type="PT">Paediatric metabolic medicine</displayName>    
+<displayName lang="en" type="FSN">Paediatric metabolic medicine (qualifier      
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829971000000106">                                                
+<displayName lang="en" type="PT">Physiotherapy service</displayName>            
+<displayName lang="en" type="FSN">Physiotherapy service (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310005003">                                                      
+<displayName lang="en" type="PT">Diagnostic audiology service</displayName>     
+<displayName lang="en" type="FSN">Diagnostic audiology service (qualifier       
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310080006">                                                      
+<displayName lang="en" type="PT">Pharmacy service</displayName>                 
+<displayName lang="en" type="FSN">Pharmacy service (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394537008">                                                      
+<displayName lang="en-GB" type="PT">Paediatric speciality</displayName>         
+<displayName lang="en" type="FSN">Pediatric specialty (qualifier                
+value)</displayName>                                                            
+<displayName lang="en-GB" type="SY">Paediatrics</displayName>                   
+</concept>                                                                      
+<concept code="394538003">                                                      
+<displayName lang="en-GB" type="PT">Paediatric neurology</displayName>          
+<displayName lang="en" type="FSN">Pediatric neurology (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394590007">                                                      
+<displayName lang="en" type="PT">Thoracic medicine</displayName>                
+<displayName lang="en" type="FSN">Thoracic medicine (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394592004">                                                      
+<displayName lang="en" type="PT">Clinical oncology</displayName>                
+<displayName lang="en" type="FSN">Clinical oncology (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394593009">                                                      
+<displayName lang="en" type="PT">Medical oncology</displayName>                 
+<displayName lang="en" type="FSN">Medical oncology (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394594003">                                                      
+<displayName lang="en" type="PT">Ophthalmology</displayName>                    
+<displayName lang="en" type="FSN">Ophthalmology (qualifier value)</displayName> 
+</concept>                                                                      
+<concept code="394596001">                                                      
+<displayName lang="en" type="PT">Chemical pathology</displayName>               
+<displayName lang="en" type="FSN">Chemical pathology (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394602003">                                                      
+<displayName lang="en-GB" type="PT">Rehabilitation - speciality</displayName>   
+<displayName lang="en" type="FSN">Rehabilitation - specialty (qualifier         
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Rehabilitation</displayName>                   
+</concept>                                                                      
+<concept code="394608004">                                                      
+<displayName lang="en" type="PT">Orthodontics</displayName>                     
+<displayName lang="en" type="FSN">Orthodontics (qualifier value)</displayName>  
+</concept>                                                                      
+<concept code="394611003">                                                      
+<displayName lang="en-GB" type="PT">Plastic surgery - speciality</displayName>  
+<displayName lang="en" type="FSN">Plastic surgery - specialty (qualifier        
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Plastic surgery</displayName>                  
+</concept>                                                                      
+<concept code="394806003">                                                      
+<displayName lang="en" type="PT">Palliative medicine</displayName>              
+<displayName lang="en" type="FSN">Palliative medicine (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394807007">                                                      
+<displayName lang="en" type="PT">Infectious diseases (specialty)</displayName>  
+<displayName lang="en" type="FSN">Infectious diseases (specialty) (qualifier    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394809005">                                                      
+<displayName lang="en" type="PT">Clinical neuro-physiology</displayName>        
+<displayName lang="en" type="FSN">Clinical neuro-physiology (qualifier          
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408446006">                                                      
+<displayName lang="en-GB" type="PT">Gynaecological oncology</displayName>       
+<displayName lang="en" type="FSN">Gynecological oncology (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408449004">                                                      
+<displayName lang="en" type="PT">Surgical dentistry</displayName>               
+<displayName lang="en" type="FSN">Surgical dentistry (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408456005">                                                      
+<displayName lang="en" type="PT">Thoracic surgery</displayName>                 
+<displayName lang="en" type="FSN">Thoracic surgery (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408457001">                                                      
+<displayName lang="en" type="PT">Maxillofacial surgery</displayName>            
+<displayName lang="en" type="FSN">Maxillofacial surgery (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408462000">                                                      
+<displayName lang="en" type="PT">Burns care</displayName>                       
+<displayName lang="en" type="FSN">Burns care (qualifier value)</displayName>    
+<displayName lang="en" type="SY">Burns management</displayName>                 
+</concept>                                                                      
+<concept code="417887005">                                                      
+<displayName lang="en-GB" type="PT">Paediatric otolaryngology</displayName>     
+<displayName lang="en" type="FSN">Pediatric otolaryngology (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="419170002">                                                      
+<displayName lang="en-GB" type="PT">Paediatric pulmonology</displayName>        
+<displayName lang="en" type="FSN">Pediatric pulmonology (qualifier              
+value)</displayName>                                                            
+<displayName lang="en-GB" type="SY">Paediatric respiratory                      
+medicine</displayName>                                                          
+<displayName lang="en-GB" type="SY">Paediatric chest medicine</displayName>     
+</concept>                                                                      
+<concept code="419983000">                                                      
+<displayName lang="en-GB" type="PT">Paediatric ophthalmology</displayName>      
+<displayName lang="en" type="FSN">Pediatric ophthalmology (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="108501000000103">                                                
+<displayName lang="en-GB" type="PT">Well babies - specialty</displayName>       
+<displayName lang="en-GB" type="FSN">Well babies - specialty (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828061000000109">                                                
+<displayName lang="en" type="PT">Paediatric gastrointestinal                    
+surgery</displayName>                                                           
+<displayName lang="en" type="FSN">Paediatric gastrointestinal surgery (qualifier
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828211000000100">                                                
+<displayName lang="en" type="PT">Paediatric thoracic surgery</displayName>      
+<displayName lang="en" type="FSN">Paediatric thoracic surgery (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828461000000104">                                                
+<displayName lang="en" type="PT">Electroencephalography</displayName>           
+<displayName lang="en" type="FSN">Electroencephalography (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828841000000103">                                                
+<displayName lang="en" type="PT">Dental therapy</displayName>                   
+<displayName lang="en" type="FSN">Dental therapy (qualifier value)</displayName>
+</concept>                                                                      
+<concept code="828871000000109">                                                
+<displayName lang="en" type="PT">GP (general practice) obstetrics</displayName> 
+<displayName lang="en" type="FSN">General practice obstetrics (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828951000000105">                                                
+<displayName lang="en" type="PT">Paediatric neurodisability</displayName>       
+<displayName lang="en" type="FSN">Paediatric neurodisability (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829951000000102">                                                
+<displayName lang="en" type="PT">Industrial therapy service</displayName>       
+<displayName lang="en" type="FSN">Industrial therapy service (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829961000000104">                                                
+<displayName lang="en" type="PT">Out of hours service</displayName>             
+<displayName lang="en" type="FSN">Out of hours service (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310087009">                                                      
+<displayName lang="en" type="PT">Podiatry service</displayName>                 
+<displayName lang="en" type="FSN">Podiatry service (qualifier                   
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Chiropody service</displayName>                
+</concept>                                                                      
+<concept code="394539006">                                                      
+<displayName lang="en-GB" type="PT">Paediatric surgery</displayName>            
+<displayName lang="en" type="FSN">Pediatric surgery (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394583002">                                                      
+<displayName lang="en" type="PT">Endocrinology</displayName>                    
+<displayName lang="en" type="FSN">Endocrinology (qualifier value)</displayName> 
+</concept>                                                                      
+<concept code="394586005">                                                      
+<displayName lang="en-GB" type="PT">Gynaecology</displayName>                   
+<displayName lang="en" type="FSN">Gynecology (qualifier value)</displayName>    
+</concept>                                                                      
+<concept code="394802001">                                                      
+<displayName lang="en" type="PT">General medicine</displayName>                 
+<displayName lang="en" type="FSN">General medicine (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394808002">                                                      
+<displayName lang="en" type="PT">Genito-urinary medicine</displayName>          
+<displayName lang="en" type="FSN">Genito-urinary medicine (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394811001">                                                      
+<displayName lang="en" type="PT">Geriatric medicine</displayName>               
+<displayName lang="en" type="FSN">Geriatric medicine (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394915009">                                                      
+<displayName lang="en" type="PT">General pathology (specialty)</displayName>    
+<displayName lang="en" type="FSN">General pathology (specialty) (qualifier      
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408443003">                                                      
+<displayName lang="en" type="PT">General medical practice</displayName>         
+<displayName lang="en" type="FSN">General medical practice (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408444009">                                                      
+<displayName lang="en" type="PT">General dental practice</displayName>          
+<displayName lang="en" type="FSN">General dental practice (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408447002">                                                      
+<displayName lang="en-GB" type="PT">Respite care - speciality</displayName>     
+<displayName lang="en" type="FSN">Respite care - specialty (qualifier           
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Respite care</displayName>                     
+</concept>                                                                      
+<concept code="408478003">                                                      
+<displayName lang="en" type="PT">Critical care medicine</displayName>           
+<displayName lang="en" type="FSN">Critical care medicine (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408479006">                                                      
+<displayName lang="en" type="PT">Upper gastrointestinal surgery</displayName>   
+<displayName lang="en" type="FSN">Upper gastrointestinal surgery (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="90901000000104">                                                 
+<displayName lang="en-GB" type="PT">Community health services dental -          
+specialty</displayName>                                                         
+<displayName lang="en-GB" type="FSN">Community health services dental -         
+specialty (qualifier value)</displayName>                                       
+</concept>                                                                      
+<concept code="827691000000106">                                                
+<displayName lang="en" type="PT">Community psychiatric nursing</displayName>    
+<displayName lang="en" type="FSN">Community psychiatric nursing (qualifier      
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828081000000100">                                                
+<displayName lang="en" type="PT">Paediatric cardiac surgery</displayName>       
+<displayName lang="en" type="FSN">Paediatric cardiac surgery (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828141000000109">                                                
+<displayName lang="en" type="PT">Paediatric urology</displayName>               
+<displayName lang="en" type="FSN">Paediatric urology (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828191000000104">                                                
+<displayName lang="en" type="PT">Dental hygiene service</displayName>           
+<displayName lang="en" type="FSN">Dental hygiene service (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828301000000108">                                                
+<displayName lang="en" type="PT">Electrocardiography service</displayName>      
+<displayName lang="en" type="FSN">Electrocardiography service (qualifier        
+value)</displayName>                                                            
+<displayName lang="en" type="SY">ECG (electrocardiography) service</displayName>
+</concept>                                                                      
+<concept code="828311000000105">                                                
+<displayName lang="en" type="PT">General nursing</displayName>                  
+<displayName lang="en" type="FSN">General nursing (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828321000000104">                                                
+<displayName lang="en" type="PT">Health visiting</displayName>                  
+<displayName lang="en" type="FSN">Health visiting (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828371000000100">                                                
+<displayName lang="en" type="PT">Well man service</displayName>                 
+<displayName lang="en" type="FSN">Well man service (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828431000000109">                                                
+<displayName lang="en" type="PT">Prosthetics</displayName>                      
+<displayName lang="en" type="FSN">Prosthetics (qualifier value)</displayName>   
+</concept>                                                                      
+<concept code="828491000000105">                                                
+<displayName lang="en" type="PT">Oral medicine</displayName>                    
+<displayName lang="en" type="FSN">Oral medicine (qualifier value)</displayName> 
+</concept>                                                                      
+<concept code="828521000000108">                                                
+<displayName lang="en" type="PT">NHS Direct</displayName>                       
+<displayName lang="en" type="FSN">National Health Service Direct (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828541000000101">                                                
+<displayName lang="en" type="PT">Obstetrics - antenatal</displayName>           
+<displayName lang="en" type="FSN">Obstetrics - antenatal (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828831000000107">                                                
+<displayName lang="en" type="PT">Physiological measurement -                    
+specialty</displayName>                                                         
+<displayName lang="en" type="FSN">Physiological measurement - specialty         
+(qualifier value)</displayName>                                                 
+</concept>                                                                      
+<concept code="828861000000102">                                                
+<displayName lang="en" type="PT">Programmed pulmonary rehabilitation            
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Programmed pulmonary rehabilitation service   
+(qualifier value)</displayName>                                                 
+</concept>                                                                      
+<concept code="310082003">                                                      
+<displayName lang="en" type="PT">Arts therapy services</displayName>            
+<displayName lang="en" type="FSN">Arts therapy services (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394576009">                                                      
+<displayName lang="en" type="PT">Accident &amp; emergency</displayName>         
+<displayName lang="en" type="FSN">Accident &amp; emergency (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394588006">                                                      
+<displayName lang="en" type="PT">Child and adolescent psychiatry</displayName>  
+<displayName lang="en" type="FSN">Child and adolescent psychiatry (qualifier    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394591006">                                                      
+<displayName lang="en" type="PT">Neurology</displayName>                        
+<displayName lang="en" type="FSN">Neurology (qualifier value)</displayName>     
+</concept>                                                                      
+<concept code="394597005">                                                      
+<displayName lang="en" type="PT">Histopathology</displayName>                   
+<displayName lang="en" type="FSN">Histopathology (qualifier value)</displayName>
+<displayName lang="en-GB" type="SY">Histology speciality</displayName>          
+</concept>                                                                      
+<concept code="394600006">                                                      
+<displayName lang="en" type="PT">Clinical pharmacology</displayName>            
+<displayName lang="en" type="FSN">Clinical pharmacology (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394649004">                                                      
+<displayName lang="en-GB" type="PT">Nuclear medicine - speciality</displayName> 
+<displayName lang="en" type="FSN">Nuclear medicine - specialty (qualifier       
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Nuclear medicine</displayName>                 
+</concept>                                                                      
+<concept code="394913002">                                                      
+<displayName lang="en" type="PT">Psychotherapy (specialty)</displayName>        
+<displayName lang="en" type="FSN">Psychotherapy (specialty) (qualifier          
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394914008">                                                      
+<displayName lang="en-GB" type="PT">Radiology - speciality</displayName>        
+<displayName lang="en" type="FSN">Radiology - specialty (qualifier              
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Radiology</displayName>                        
+</concept>                                                                      
+<concept code="408440000">                                                      
+<displayName lang="en" type="PT">Public health medicine</displayName>           
+<displayName lang="en" type="FSN">Public health medicine (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408445005">                                                      
+<displayName lang="en" type="PT">Neonatology</displayName>                      
+<displayName lang="en" type="FSN">Neonatology (qualifier value)</displayName>   
+</concept>                                                                      
+<concept code="408448007">                                                      
+<displayName lang="en" type="PT">Tropical medicine</displayName>                
+<displayName lang="en" type="FSN">Tropical medicine (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408463005">                                                      
+<displayName lang="en" type="PT">Vascular surgery</displayName>                 
+<displayName lang="en" type="FSN">Vascular surgery (qualifier                   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408480009">                                                      
+<displayName lang="en" type="PT">Clinical immunology</displayName>              
+<displayName lang="en" type="FSN">Clinical immunology (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="418652005">                                                      
+<displayName lang="en-GB" type="PT">Paediatric haematology</displayName>        
+<displayName lang="en" type="FSN">Pediatric hematology (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827651000000103">                                                
+<displayName lang="en" type="PT">Cardiac rehabilitation service</displayName>   
+<displayName lang="en" type="FSN">Cardiac rehabilitation service (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828071000000102">                                                
+<displayName lang="en" type="PT">Paediatric maxillofacial surgery</displayName> 
+<displayName lang="en" type="FSN">Paediatric maxillofacial surgery (qualifier   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828291000000109">                                                
+<displayName lang="en" type="PT">Dispensing optometry service</displayName>     
+<displayName lang="en" type="FSN">Dispensing optometry service (qualifier       
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828851000000100">                                                
+<displayName lang="en" type="PT">Diagnostic radiography</displayName>           
+<displayName lang="en" type="FSN">Diagnostic radiography (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828881000000106">                                                
+<displayName lang="en" type="PT">Intensive care medicine</displayName>          
+<displayName lang="en" type="FSN">Intensive care medicine (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828931000000103">                                                
+<displayName lang="en" type="PT">Virology</displayName>                         
+<displayName lang="en" type="FSN">Virology (qualifier value)</displayName>      
+</concept>                                                                      
+<concept code="394577000">                                                      
+<displayName lang="en-GB" type="PT">Anaesthetics</displayName>                  
+<displayName lang="en" type="FSN">Anesthetics (qualifier value)</displayName>   
+<displayName lang="en-GB" type="SY">Anaesthesia</displayName>                   
+</concept>                                                                      
+<concept code="394584008">                                                      
+<displayName lang="en" type="PT">Gastroenterology</displayName>                 
+<displayName lang="en" type="FSN">Gastroenterology (qualifier                   
+value)</displayName>                                                            
+<displayName lang="en" type="SY">GE - Gastroenterology</displayName>            
+</concept>                                                                      
+<concept code="394817002">                                                      
+<displayName lang="en" type="PT">Forensic psychiatry</displayName>              
+<displayName lang="en" type="FSN">Forensic psychiatry (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394882004">                                                      
+<displayName lang="en" type="PT">Pain management (specialty)</displayName>      
+<displayName lang="en" type="FSN">Pain management (specialty) (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408459003">                                                      
+<displayName lang="en-GB" type="PT">Paediatric cardiology</displayName>         
+<displayName lang="en" type="FSN">Pediatric cardiology (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408466002">                                                      
+<displayName lang="en" type="PT">Cardiac surgery</displayName>                  
+<displayName lang="en" type="FSN">Cardiac surgery (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408472002">                                                      
+<displayName lang="en" type="PT">Hepatology</displayName>                       
+<displayName lang="en" type="FSN">Hepatology (qualifier value)</displayName>    
+</concept>                                                                      
+<concept code="720521000000108">                                                
+<displayName lang="en" type="PT">Community nursing</displayName>                
+<displayName lang="en" type="FSN">Community nursing (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="723391000000106">                                                
+<displayName lang="en" type="PT">Sports medicine</displayName>                  
+<displayName lang="en" type="FSN">Sports medicine (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827641000000101">                                                
+<displayName lang="en" type="PT">Anticoagulant service</displayName>            
+<displayName lang="en" type="FSN">Anticoagulant service (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827961000000107">                                                
+<displayName lang="en" type="PT">Paediatric audiological medicine</displayName> 
+<displayName lang="en" type="FSN">Paediatric audiological medicine (qualifier   
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828121000000102">                                                
+<displayName lang="en" type="PT">Paediatric neurosurgery</displayName>          
+<displayName lang="en" type="FSN">Paediatric neurosurgery (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828221000000106">                                                
+<displayName lang="en" type="PT">Paediatric transplantation                     
+surgery</displayName>                                                           
+<displayName lang="en" type="FSN">Paediatric transplantation surgery (qualifier 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828421000000107">                                                
+<displayName lang="en" type="PT">Respiratory physiology</displayName>           
+<displayName lang="en" type="FSN">Respiratory physiology (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828551000000103">                                                
+<displayName lang="en" type="PT">Obstetrics - postnatal</displayName>           
+<displayName lang="en" type="FSN">Obstetrics - postnatal (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828891000000108">                                                
+<displayName lang="en" type="PT">Medical physics</displayName>                  
+<displayName lang="en" type="FSN">Medical physics (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828921000000100">                                                
+<displayName lang="en" type="PT">Therapeutic radiography</displayName>          
+<displayName lang="en" type="FSN">Therapeutic radiography (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310031001">                                                      
+<displayName lang="en" type="PT">Family planning service</displayName>          
+<displayName lang="en" type="FSN">Family planning service (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310090003">                                                      
+<displayName lang="en" type="PT">Dietetics service</displayName>                
+<displayName lang="en" type="FSN">Dietetics service (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310105000">                                                      
+<displayName lang="en" type="PT">Optometry service</displayName>                
+<displayName lang="en" type="FSN">Optometry service (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310106004">                                                      
+<displayName lang="en" type="PT">Orthoptics service</displayName>               
+<displayName lang="en" type="FSN">Orthoptics service (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310123008">                                                      
+<displayName lang="en" type="PT">Psychology service</displayName>               
+<displayName lang="en" type="FSN">Psychology service (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394604002">                                                      
+<displayName lang="en" type="PT">Ear, nose and throat surgery</displayName>     
+<displayName lang="en" type="FSN">Ear, nose and throat surgery (qualifier       
+value)</displayName>                                                            
+<displayName lang="en" type="SY">ENT</displayName>                              
+</concept>                                                                      
+<concept code="394607009">                                                      
+<displayName lang="en-GB" type="PT">Paediatric dentistry</displayName>          
+<displayName lang="en" type="FSN">Pediatric dentistry (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394609007">                                                      
+<displayName lang="en" type="PT">General surgery</displayName>                  
+<displayName lang="en" type="FSN">General surgery (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394801008">                                                      
+<displayName lang="en-GB" type="PT">Trauma &amp; orthopaedics</displayName>     
+<displayName lang="en" type="FSN">Trauma and orthopedics (qualifier             
+value)</displayName>                                                            
+<displayName lang="en-GB" type="SY">Trauma and orthopaedics</displayName>       
+</concept>                                                                      
+<concept code="394805004">                                                      
+<displayName lang="en" type="PT">Clinical immunology/allergy</displayName>      
+<displayName lang="en" type="FSN">Clinical immunology/allergy (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394818007">                                                      
+<displayName lang="en" type="PT">Old age psychiatry</displayName>               
+<displayName lang="en" type="FSN">Old age psychiatry (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408441001">                                                      
+<displayName lang="en-GB" type="PT">Endodontics - speciality</displayName>      
+<displayName lang="en" type="FSN">Endodontics - specialty (qualifier            
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Endodontics</displayName>                      
+</concept>                                                                      
+<concept code="408455009">                                                      
+<displayName lang="en-GB" type="PT">Interventional radiology -                  
+speciality</displayName>                                                        
+<displayName lang="en" type="FSN">Interventional radiology - specialty          
+(qualifier value)</displayName>                                                 
+<displayName lang="en" type="SY">Interventional radiology</displayName>         
+</concept>                                                                      
+<concept code="408471009">                                                      
+<displayName lang="en" type="PT">Cardiothoracic transplantation</displayName>   
+<displayName lang="en" type="FSN">Cardiothoracic transplantation (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408477008">                                                      
+<displayName lang="en" type="PT">Transplantation surgery</displayName>          
+<displayName lang="en" type="FSN">Transplantation surgery (qualifier            
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="419215006">                                                      
+<displayName lang="en-GB" type="PT">Paediatric intensive care</displayName>     
+<displayName lang="en" type="FSN">Pediatric intensive care (qualifier           
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827621000000108">                                                
+<displayName lang="en" type="PT">Addiction service</displayName>                
+<displayName lang="en" type="FSN">Addiction service (qualifier                  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827671000000107">                                                
+<displayName lang="en" type="PT">Community learning disability                  
+nursing</displayName>                                                           
+<displayName lang="en" type="FSN">Community learning disability nursing         
+(qualifier value)</displayName>                                                 
+</concept>                                                                      
+<concept code="827681000000109">                                                
+<displayName lang="en" type="PT">Community midwifery</displayName>              
+<displayName lang="en" type="FSN">Community midwifery (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828021000000101">                                                
+<displayName lang="en" type="PT">Perinatal psychiatry</displayName>             
+<displayName lang="en" type="FSN">Perinatal psychiatry (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828031000000104">                                                
+<displayName lang="en" type="PT">Paediatric diabetic medicine</displayName>     
+<displayName lang="en" type="FSN">Paediatric diabetic medicine (qualifier       
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828131000000100">                                                
+<displayName lang="en" type="PT">Paediatric plastic surgery</displayName>       
+<displayName lang="en" type="FSN">Paediatric plastic surgery (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828181000000101">                                                
+<displayName lang="en" type="PT">Community sexual and reproductive              
+health</displayName>                                                            
+<displayName lang="en" type="FSN">Community sexual and reproductive health      
+(qualifier value)</displayName>                                                 
+</concept>                                                                      
+<concept code="828251000000101">                                                
+<displayName lang="en" type="PT">Oral pathology</displayName>                   
+<displayName lang="en" type="FSN">Oral pathology (qualifier value)</displayName>
+</concept>                                                                      
+<concept code="828351000000109">                                                
+<displayName lang="en" type="PT">Medical photography</displayName>              
+<displayName lang="en" type="FSN">Medical photography (qualifier                
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828401000000103">                                                
+<displayName lang="en" type="PT">School nursing</displayName>                   
+<displayName lang="en" type="FSN">School nursing (qualifier value)</displayName>
+</concept>                                                                      
+<concept code="828451000000102">                                                
+<displayName lang="en" type="PT">Psychiatric intensive care</displayName>       
+<displayName lang="en" type="FSN">Psychiatric intensive care (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828511000000102">                                                
+<displayName lang="en" type="PT">NHS 24</displayName>                           
+<displayName lang="en" type="FSN">National Health Service 24 (qualifier         
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828531000000105">                                                
+<displayName lang="en" type="PT">Nursery nursing</displayName>                  
+<displayName lang="en" type="FSN">Nursery nursing (qualifier                    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829131000000107">                                                
+<displayName lang="en" type="PT">Paediatric immunology and allergy</displayName>
+<displayName lang="en" type="FSN">Paediatric immunology and allergy (qualifier  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829211000000107">                                                
+<displayName lang="en" type="PT">Ultrasound diagnostic imaging -                
+specialty</displayName>                                                         
+<displayName lang="en" type="FSN">Ultrasound diagnostic imaging - specialty     
+(qualifier value)</displayName>                                                 
+<displayName lang="en" type="SY">Ultrasonics</displayName>                      
+</concept>                                                                      
+<concept code="829981000000108">                                                
+<displayName lang="en" type="PT">Community child health service</displayName>   
+<displayName lang="en" type="FSN">Community child health service (qualifier     
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310086000">                                                      
+<displayName lang="en" type="PT">Music therapy service</displayName>            
+<displayName lang="en" type="FSN">Music therapy service (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310101009">                                                      
+<displayName lang="en" type="PT">Speech and language therapy                    
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Speech and language therapy service (qualifier
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="310139001">                                                      
+<displayName lang="en" type="PT">Breast surgery service</displayName>           
+<displayName lang="en" type="FSN">Breast surgery service (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394578005">                                                      
+<displayName lang="en" type="PT">Audiological medicine</displayName>            
+<displayName lang="en" type="FSN">Audiological medicine (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394579002">                                                      
+<displayName lang="en" type="PT">Cardiology</displayName>                       
+<displayName lang="en" type="FSN">Cardiology (qualifier value)</displayName>    
+</concept>                                                                      
+<concept code="394585009">                                                      
+<displayName lang="en-GB" type="PT">Obstetrics and gynaecology</displayName>    
+<displayName lang="en" type="FSN">Obstetrics and gynecology (qualifier          
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394603008">                                                      
+<displayName lang="en" type="PT">Cardiothoracic surgery</displayName>           
+<displayName lang="en" type="FSN">Cardiothoracic surgery (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394610002">                                                      
+<displayName lang="en" type="PT">Neurosurgery</displayName>                     
+<displayName lang="en" type="FSN">Neurosurgery (qualifier value)</displayName>  
+</concept>                                                                      
+<concept code="394612005">                                                      
+<displayName lang="en" type="PT">Urology</displayName>                          
+<displayName lang="en" type="FSN">Urology (qualifier value)</displayName>       
+</concept>                                                                      
+<concept code="394813003">                                                      
+<displayName lang="en" type="PT">Medical ophthalmology</displayName>            
+<displayName lang="en" type="FSN">Medical ophthalmology (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394820005">                                                      
+<displayName lang="en" type="PT">Medical microbiology</displayName>             
+<displayName lang="en" type="FSN">Medical microbiology (qualifier               
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="394916005">                                                      
+<displayName lang="en-GB" type="PT">Haematology (specialty)</displayName>       
+<displayName lang="en" type="FSN">Hematopathology (specialty) (qualifier        
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408454008">                                                      
+<displayName lang="en" type="PT">Clinical microbiology</displayName>            
+<displayName lang="en" type="FSN">Clinical microbiology (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408464004">                                                      
+<displayName lang="en" type="PT">Colorectal surgery</displayName>               
+<displayName lang="en" type="FSN">Colorectal surgery (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="408468001">                                                      
+<displayName lang="en-GB" type="PT">Learning disability -                       
+speciality</displayName>                                                        
+<displayName lang="en" type="FSN">Learning disability - specialty (qualifier    
+value)</displayName>                                                            
+<displayName lang="en" type="SY">Learning disability</displayName>              
+</concept>                                                                      
+<concept code="418002000">                                                      
+<displayName lang="en-GB" type="PT">Paediatric oncology</displayName>           
+<displayName lang="en" type="FSN">Pediatric oncology (qualifier                 
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="421661004">                                                      
+<displayName lang="en" type="PT">Blood banking and transfusion medicine         
+(specialty)</displayName>                                                       
+<displayName lang="en" type="FSN">Blood banking and transfusion medicine        
+(specialty) (qualifier value)</displayName>                                     
+</concept>                                                                      
+<concept code="720511000000102">                                                
+<displayName lang="en" type="PT">Community mental health service</displayName>  
+<displayName lang="en" type="FSN">Community mental health service (qualifier    
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="827971000000100">                                                
+<displayName lang="en" type="PT">Paediatric burns care</displayName>            
+<displayName lang="en" type="FSN">Paediatric burns care (qualifier              
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828201000000102">                                                
+<displayName lang="en" type="PT">Dental surgery assistance service</displayName>
+<displayName lang="en" type="FSN">Dental surgery assistance service (qualifier  
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="828391000000101">                                                
+<displayName lang="en" type="PT">Special care dentistry</displayName>           
+<displayName lang="en" type="FSN">Special care dentistry (qualifier             
+value)</displayName>                                                            
+</concept>                                                                      
+<concept code="829991000000105">                                                
+<displayName lang="en" type="PT">Medical microbiology and virology</displayName>
+<displayName lang="en" type="FSN">Medical microbiology and virology (qualifier  
+value)</displayName>                                                            
+</concept>                                                                      
+</vocabulary>                                                                   

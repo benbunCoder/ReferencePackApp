@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Risk to Person" type="Realm Concept" setId="45191000000131"   
+version="12" id="961000000131" memberCount="2" status="Active"                  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                          
+<concept code="406556003">                                                      
+<displayName lang="en" type="PT">High risk of harm to others</displayName>      
+<displayName lang="en" type="FSN">High risk of harm to others                   
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="414382000">                                                      
+<displayName lang="en" type="PT">Healthcare Professional at risk</displayName>  
+<displayName lang="en" type="FSN">Healthcare Professional at risk               
+(finding)</displayName>                                                         
+<displayName lang="en" type="SY">Risk to care professional</displayName>        
+</concept>                                                                      
+</vocabulary>                                                                   

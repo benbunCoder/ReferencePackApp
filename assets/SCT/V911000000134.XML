@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Alcohol" type="Realm Concept" setId="44881000000137"          
+version="12" id="911000000134" memberCount="1" status="Active"                  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                          
+<concept code="160573003">                                                      
+<displayName lang="en" type="PT">Alcohol intake</displayName>                   
+<displayName lang="en" type="FSN">Alcohol intake (observable                    
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">ETOH - Alcohol intake</displayName>            
+<displayName lang="en" type="SY">Alcoholic drink intake</displayName>           
+<displayName lang="en" type="SY">Ethanol intake</displayName>                   
+<displayName lang="en" type="SY">AI - Alcohol intake</displayName>              
+<displayName lang="en" type="SY">Alcohol consumption</displayName>              
+</concept>                                                                      
+</vocabulary>                                                                   

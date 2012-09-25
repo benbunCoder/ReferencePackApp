@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Blood Pressure" type="Realm Concept" setId="44911000000137"   
+version="11" id="1291000000133" memberCount="1" status="Active"                 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                          
+<concept code="75367002">                                                       
+<displayName lang="en" type="PT">Blood pressure</displayName>                   
+<displayName lang="en" type="FSN">Blood pressure (observable                    
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">BP - Blood pressure</displayName>              
+</concept>                                                                      
+</vocabulary>                                                                   

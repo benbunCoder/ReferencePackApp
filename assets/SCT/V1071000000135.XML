@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Services, care professionals and carers" type="Realm Concept" 
+setId="45201000000133" version="12" id="1071000000135" memberCount="59"         
+status="Active" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">          
+<concept code="160763002">                                                      
+<displayName lang="en" type="PT">Midwife attends</displayName>                  
+<displayName lang="en" type="FSN">Midwife attends (finding)</displayName>       
+</concept>                                                                      
+<concept code="160768006">                                                      
+<displayName lang="en" type="PT">Midwife attends 21-24 days                     
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 21-24 days post-discharge     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="160775007">                                                      
+<displayName lang="en" type="PT">Home help requested</displayName>              
+<displayName lang="en" type="FSN">Home help requested (finding)</displayName>   
+</concept>                                                                      
+<concept code="160781004">                                                      
+<displayName lang="en" type="PT">District nurse involvement                     
+stopped</displayName>                                                           
+<displayName lang="en" type="FSN">District nurse involvement stopped            
+(finding)</displayName>                                                         
+<displayName lang="en" type="SY">District nurse involv.stopped</displayName>    
+</concept>                                                                      
+<concept code="224476002">                                                      
+<displayName lang="en" type="PT">Availability of help from lay                  
+carer</displayName>                                                             
+<displayName lang="en" type="FSN">Availability of help from lay carer           
+(observable entity)</displayName>                                               
+</concept>                                                                      
+<concept code="266980002">                                                      
+<displayName lang="en" type="PT">Self-help group membership</displayName>       
+<displayName lang="en" type="FSN">Self-help group membership (observable        
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="400989000">                                                      
+<displayName lang="en" type="PT">Carer strain index score</displayName>         
+<displayName lang="en" type="FSN">Carer strain index score (observable          
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="405171000">                                                      
+<displayName lang="en" type="PT">Caregiver behavior: direct care</displayName>  
+<displayName lang="en" type="FSN">Caregiver behavior: direct care (observable   
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver performance: direct                  
+care</displayName>                                                              
+</concept>                                                                      
+<concept code="406223000">                                                      
+<displayName lang="en" type="PT">Caregiver health status</displayName>          
+<displayName lang="en" type="FSN">Caregiver health status (observable           
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Carer health status</displayName>              
+</concept>                                                                      
+<concept code="224475003">                                                      
+<displayName lang="en" type="PT">Detail of care and support circumstances and   
+networks</displayName>                                                          
+<displayName lang="en" type="FSN">Detail of care and support circumstances and  
+networks (observable entity)</displayName>                                      
+<displayName lang="en" type="SY">Care and support circumstances and             
+networks</displayName>                                                          
+</concept>                                                                      
+<concept code="312385000">                                                      
+<displayName lang="en" type="PT">Child minding service</displayName>            
+<displayName lang="en" type="FSN">Child minding service (finding)</displayName> 
+</concept>                                                                      
+<concept code="365486005">                                                      
+<displayName lang="en" type="PT">Finding related to requirement for domiciliary 
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Finding related to requirement for domiciliary
+service (finding)</displayName>                                                 
+</concept>                                                                      
+<concept code="405168008">                                                      
+<displayName lang="en" type="PT">Caregiver behavior: home care                  
+readiness</displayName>                                                         
+<displayName lang="en" type="FSN">Caregiver behavior: home care readiness       
+(observable entity)</displayName>                                               
+<displayName lang="en" type="SY">Caregiver home care readiness</displayName>    
+</concept>                                                                      
+<concept code="405174008">                                                      
+<displayName lang="en" type="PT">Caregiver endurance factors</displayName>      
+<displayName lang="en" type="FSN">Caregiver endurance factors (observable       
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiving endurance potential</displayName>   
+</concept>                                                                      
+<concept code="405193005">                                                      
+<displayName lang="en" type="PT">Caregiver wellbeing status</displayName>       
+<displayName lang="en" type="FSN">Caregiver wellbeing status (observable        
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver satisfaction</displayName>           
+<displayName lang="en" type="SY">Caregiver wellbeing</displayName>              
+</concept>                                                                      
+<concept code="160779001">                                                      
+<displayName lang="en" type="PT">Domiciliary chiropody</displayName>            
+<displayName lang="en" type="FSN">Domiciliary chiropody (finding)</displayName> 
+</concept>                                                                      
+<concept code="161038001">                                                      
+<displayName lang="en" type="PT">Domiciliary service need</displayName>         
+<displayName lang="en" type="FSN">Domiciliary service need (observable          
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="183419004">                                                      
+<displayName lang="en" type="PT">Medical social worker involved</displayName>   
+<displayName lang="en" type="FSN">Medical social worker involved                
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="224497001">                                                      
+<displayName lang="en" type="PT">Proximity of informal carer</displayName>      
+<displayName lang="en" type="FSN">Proximity of informal carer (observable       
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="224511004">                                                      
+<displayName lang="en" type="PT">Support for informal carer</displayName>       
+<displayName lang="en" type="FSN">Support for informal carer (observable        
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="266941005">                                                      
+<displayName lang="en" type="PT">Provision of domiciliary services</displayName>
+<displayName lang="en" type="FSN">Provision of domiciliary services (observable 
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="312386004">                                                      
+<displayName lang="en" type="PT">Babysitting service</displayName>              
+<displayName lang="en" type="FSN">Babysitting service (finding)</displayName>   
+</concept>                                                                      
+<concept code="405192000">                                                      
+<displayName lang="en" type="PT">Caregiver physical health status</displayName> 
+<displayName lang="en" type="FSN">Caregiver physical health status (observable  
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver physical health</displayName>        
+</concept>                                                                      
+<concept code="160761000">                                                      
+<displayName lang="en" type="PT">District nurse attends</displayName>           
+<displayName lang="en" type="FSN">District nurse attends (finding)</displayName>
+</concept>                                                                      
+<concept code="160765009">                                                      
+<displayName lang="en" type="PT">Midwife attends 11-13 days                     
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 11-13 days post-discharge     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="160769003">                                                      
+<displayName lang="en" type="PT">Midwife attends 25-28 days                     
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 25-28 days post-discharge     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="160774006">                                                      
+<displayName lang="en" type="PT">Home help attends</displayName>                
+<displayName lang="en" type="FSN">Home help attends (finding)</displayName>     
+</concept>                                                                      
+<concept code="160778009">                                                      
+<displayName lang="en" type="PT">Meals on wheels</displayName>                  
+<displayName lang="en" type="FSN">Meals on wheels (finding)</displayName>       
+<displayName lang="en" type="SY">MOWS - Meals on wheels</displayName>           
+<displayName lang="en" type="SY">MOW - Meals on wheels</displayName>            
+</concept>                                                                      
+<concept code="160780003">                                                      
+<displayName lang="en" type="PT">Domiciliary occupational therapy</displayName> 
+<displayName lang="en" type="FSN">Domiciliary occupational therapy              
+(finding)</displayName>                                                         
+<displayName lang="en" type="SY">Domiciliary O.T.</displayName>                 
+</concept>                                                                      
+<concept code="224488000">                                                      
+<displayName lang="en" type="PT">Willingness of carer to provide                
+care</displayName>                                                              
+<displayName lang="en" type="FSN">Willingness of carer to provide care          
+(observable entity)</displayName>                                               
+</concept>                                                                      
+<concept code="224502004">                                                      
+<displayName lang="en" type="PT">Number of informal carers</displayName>        
+<displayName lang="en" type="FSN">Number of informal carers (observable         
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="302150003">                                                      
+<displayName lang="en" type="PT">Requirement for domiciliary                    
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Requirement for domiciliary service           
+(observable entity)</displayName>                                               
+</concept>                                                                      
+<concept code="365485009">                                                      
+<displayName lang="en" type="PT">Finding related to provision of domiciliary    
+services</displayName>                                                          
+<displayName lang="en" type="FSN">Finding related to provision of domiciliary   
+services (finding)</displayName>                                                
+</concept>                                                                      
+<concept code="405167003">                                                      
+<displayName lang="en-GB" type="PT">Caregiver adaptative behavior: patient      
+institutionalisation</displayName>                                              
+<displayName lang="en" type="FSN">Caregiver adaptative behavior: patient        
+institutionalization (observable entity)</displayName>                          
+<displayName lang="en-GB" type="SY">Caregiver adaptation to patient             
+institutionalisation</displayName>                                              
+</concept>                                                                      
+<concept code="405170004">                                                      
+<displayName lang="en" type="PT">Caregiver patient relationship</displayName>   
+<displayName lang="en" type="FSN">Caregiver patient relationship (observable    
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="405173002">                                                      
+<displayName lang="en" type="PT">Caregiver stressors</displayName>              
+<displayName lang="en" type="FSN">Caregiver stressors (observable               
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="160766005">                                                      
+<displayName lang="en" type="PT">Midwife attends 14-16 days                     
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 14-16 days post-discharge     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="224514007">                                                      
+<displayName lang="en" type="PT">Carer&apos;s transport</displayName>           
+<displayName lang="en" type="FSN">Carer&apos;s transport (observable            
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="109831000000104">                                                
+<displayName lang="en-GB" type="PT">Contact details when care co-ordinator not  
+available</displayName>                                                         
+<displayName lang="en-GB" type="FSN">Contact details when care co-ordinator not 
+available (observable entity)</displayName>                                     
+</concept>                                                                      
+<concept code="160777004">                                                      
+<displayName lang="en" type="PT">Home help needed</displayName>                 
+<displayName lang="en" type="FSN">Home help needed (finding)</displayName>      
+</concept>                                                                      
+<concept code="224507005">                                                      
+<displayName lang="en-GB" type="PT">Neighbourhood care support</displayName>    
+<displayName lang="en" type="FSN">Neighborhood care support (observable         
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="405172007">                                                      
+<displayName lang="en" type="PT">Caregiver behavior: indirect care</displayName>
+<displayName lang="en" type="FSN">Caregiver behavior: indirect care (observable 
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver performance: indirect                
+care</displayName>                                                              
+</concept>                                                                      
+<concept code="443443002">                                                      
+<displayName lang="en" type="PT">Age of carer</displayName>                     
+<displayName lang="en" type="FSN">Age of carer (observable entity)</displayName>
+</concept>                                                                      
+<concept code="160762007">                                                      
+<displayName lang="en" type="PT">Health visitor visits</displayName>            
+<displayName lang="en" type="FSN">Health visitor visits (finding)</displayName> 
+</concept>                                                                      
+<concept code="160782006">                                                      
+<displayName lang="en" type="PT">Health visitor involvement                     
+stopped</displayName>                                                           
+<displayName lang="en" type="FSN">Health visitor involvement stopped            
+(finding)</displayName>                                                         
+<displayName lang="en" type="SY">Health visitor involv.stopped</displayName>    
+</concept>                                                                      
+<concept code="161037006">                                                      
+<displayName lang="en" type="PT">Domiciliary service not needed</displayName>   
+<displayName lang="en" type="FSN">Domiciliary service not needed                
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="224487005">                                                      
+<displayName lang="en" type="PT">Details of informal carer</displayName>        
+<displayName lang="en" type="FSN">Details of informal carer (observable         
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver observable</displayName>             
+</concept>                                                                      
+<concept code="224494008">                                                      
+<displayName lang="en" type="PT">Availability of informal carer</displayName>   
+<displayName lang="en" type="FSN">Availability of informal carer (observable    
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Availability of carer</displayName>            
+</concept>                                                                      
+<concept code="224503009">                                                      
+<displayName lang="en" type="PT">Quality of informal care</displayName>         
+<displayName lang="en" type="FSN">Quality of informal care (observable          
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="271391000">                                                      
+<displayName lang="en" type="PT">Provision of home help</displayName>           
+<displayName lang="en" type="FSN">Provision of home help (observable            
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="405169000">                                                      
+<displayName lang="en" type="PT">Caregiver lifestyle disruption                 
+status</displayName>                                                            
+<displayName lang="en" type="FSN">Caregiver lifestyle disruption status         
+(observable entity)</displayName>                                               
+<displayName lang="en" type="SY">Caregiver lifestyle disruption</displayName>   
+</concept>                                                                      
+<concept code="405191007">                                                      
+<displayName lang="en" type="PT">Caregiver emotional health status</displayName>
+<displayName lang="en" type="FSN">Caregiver emotional health status (observable 
+entity)</displayName>                                                           
+<displayName lang="en" type="SY">Caregiver emotional health</displayName>       
+</concept>                                                                      
+<concept code="160764008">                                                      
+<displayName lang="en" type="PT">Midwife attends 1-10 days                      
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 1-10 days post-discharge      
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="160767001">                                                      
+<displayName lang="en" type="PT">Midwife attends 17-20 days                     
+post-discharge</displayName>                                                    
+<displayName lang="en" type="FSN">Midwife attends 17-20 days post-discharge     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="160770002">                                                      
+<displayName lang="en" type="PT">Social worker involved</displayName>           
+<displayName lang="en" type="FSN">Social worker involved (finding)</displayName>
+</concept>                                                                      
+<concept code="365487001">                                                      
+<displayName lang="en" type="PT">Finding related to provision of home           
+help</displayName>                                                              
+<displayName lang="en" type="FSN">Finding related to provision of home help     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="406192005">                                                      
+<displayName lang="en-GB" type="PT">Caregiver behaviour</displayName>           
+<displayName lang="en" type="FSN">Caregiver behavior (observable                
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="443225003">                                                      
+<displayName lang="en" type="PT">Ethnicity of carer</displayName>               
+<displayName lang="en" type="FSN">Ethnicity of carer (observable                
+entity)</displayName>                                                           
+</concept>                                                                      
+<concept code="824501000000109">                                                
+<displayName lang="en" type="PT">Name of informal carer</displayName>           
+<displayName lang="en" type="FSN">Name of informal carer (observable            
+entity)</displayName>                                                           
+</concept>                                                                      
+</vocabulary>                                                                   

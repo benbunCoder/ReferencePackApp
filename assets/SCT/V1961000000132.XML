@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>                                          
+<vocabulary name="Discharge" type="Realm Concept" setId="44241000000130"        
+version="10" id="1961000000132" memberCount="24" status="Active"                
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                          
+<concept code="183667003">                                                      
+<displayName lang="en" type="PT">Discharged from inpatient care</displayName>   
+<displayName lang="en" type="FSN">Discharged from inpatient care                
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="242411000000108">                                                
+<displayName lang="en" type="PT">Discharge from ambulance clinical              
+care</displayName>                                                              
+<displayName lang="en" type="FSN">Discharge from ambulance clinical care        
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="371827001">                                                      
+<displayName lang="en" type="PT">Patient discharged alive</displayName>         
+<displayName lang="en" type="FSN">Patient discharged alive                      
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="430567009">                                                      
+<displayName lang="en" type="PT">Ready for discharge</displayName>              
+<displayName lang="en" type="FSN">Ready for discharge (finding)</displayName>   
+<displayName lang="en" type="SY">Discharge ready</displayName>                  
+</concept>                                                                      
+<concept code="513181000000101">                                                
+<displayName lang="en" type="PT">Discharged from ophthalmology outpatient       
+department</displayName>                                                        
+<displayName lang="en" type="FSN">Discharged from ophthalmology outpatient      
+department (finding)</displayName>                                              
+</concept>                                                                      
+<concept code="183669000">                                                      
+<displayName lang="en" type="PT">Discharged from day-case care</displayName>    
+<displayName lang="en" type="FSN">Discharged from day-case care                 
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="306901000000100">                                                
+<displayName lang="en" type="PT">Discharged from community mental health        
+service</displayName>                                                           
+<displayName lang="en" type="FSN">Discharged from community mental health       
+service (finding)</displayName>                                                 
+</concept>                                                                      
+<concept code="183665006">                                                      
+<displayName lang="en" type="PT">Discharged from hospital</displayName>         
+<displayName lang="en" type="FSN">Discharged from hospital                      
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="183670004">                                                      
+<displayName lang="en" type="PT">Discharged from private                        
+hosp&apos;l</displayName>                                                       
+<displayName lang="en" type="FSN">Discharged from private hosp&apos;l           
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="417119002">                                                      
+<displayName lang="en" type="PT">Discharged from accident and                   
+emergency</displayName>                                                         
+<displayName lang="en" type="FSN">Discharged from accident and emergency        
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="417691002">                                                      
+<displayName lang="en" type="PT">Discharged from care of dyspepsia specialist   
+nurse</displayName>                                                             
+<displayName lang="en" type="FSN">Discharged from care of dyspepsia specialist  
+nurse (finding)</displayName>                                                   
+</concept>                                                                      
+<concept code="417467000">                                                      
+<displayName lang="en" type="PT">Discharged from care of diabetes specialist    
+nurse</displayName>                                                             
+<displayName lang="en" type="FSN">Discharged from care of diabetes specialist   
+nurse (finding)</displayName>                                                   
+</concept>                                                                      
+<concept code="813561000000104">                                                
+<displayName lang="en" type="PT">Early discharge from critical                  
+care</displayName>                                                              
+<displayName lang="en" type="FSN">Early discharge from critical care            
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="417541007">                                                      
+<displayName lang="en" type="PT">Discharged from care of case                   
+manager</displayName>                                                           
+<displayName lang="en" type="FSN">Discharged from care of case manager          
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="376141000000109">                                                
+<displayName lang="en" type="PT">Discharged from segregation unit</displayName> 
+<displayName lang="en" type="FSN">Discharged from segregation unit              
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="183666007">                                                      
+<displayName lang="en" type="PT">Discharged from outpatients</displayName>      
+<displayName lang="en" type="FSN">Discharged from outpatients                   
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="183673002">                                                      
+<displayName lang="en" type="PT">Discharged from hospital within 6 hours of     
+delivery</displayName>                                                          
+<displayName lang="en" type="FSN">Discharged from hospital within 6 hours of    
+delivery (finding)</displayName>                                                
+</concept>                                                                      
+<concept code="275647001">                                                      
+<displayName lang="en" type="PT">Discharged from follow-up</displayName>        
+<displayName lang="en" type="FSN">Discharged from follow-up                     
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="371828006">                                                      
+<displayName lang="en" type="PT">Patient deceased during stay (discharge status 
+= dead)</displayName>                                                           
+<displayName lang="en" type="FSN">Patient deceased during stay (discharge status
+= dead) (finding)</displayName>                                                 
+</concept>                                                                      
+<concept code="199161000000103">                                                
+<displayName lang="en-GB" type="PT">Discharged from care of mental health triage
+nurse</displayName>                                                             
+<displayName lang="en" type="FSN">Discharged from care of mental health triage  
+nurse (finding)</displayName>                                                   
+</concept>                                                                      
+<concept code="712671000000101">                                                
+<displayName lang="en" type="PT">Discharged from community                      
+hospital</displayName>                                                          
+<displayName lang="en" type="FSN">Discharged from community hospital            
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="762751000000100">                                                
+<displayName lang="en" type="PT">Discharged from primary care mental health     
+team</displayName>                                                              
+<displayName lang="en" type="FSN">Discharged from primary care mental health    
+team (finding)</displayName>                                                    
+</concept>                                                                      
+<concept code="813551000000102">                                                
+<displayName lang="en" type="PT">Delayed discharge from critical                
+care</displayName>                                                              
+<displayName lang="en" type="FSN">Delayed discharge from critical care          
+(finding)</displayName>                                                         
+</concept>                                                                      
+<concept code="494961000000102">                                                
+<displayName lang="en" type="PT">Discharged from diabetes shared care           
+programme</displayName>                                                         
+<displayName lang="en" type="FSN">Discharged from diabetes shared care programme
+(finding)</displayName>                                                         
+</concept>                                                                      
+</vocabulary>                                                                   
