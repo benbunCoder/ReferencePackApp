@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/aboutId"
+	android:orientation="vertical" android:layout_width="match_parent"
+	android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	android:padding="@dimen/padding_small">
+	<TextView android:id="@+id/textView1" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:gravity="left|center_horizontal"
+		android:paddingLeft="@dimen/padding_small" android:paddingRight="@dimen/padding_small"
+		android:paddingTop="@dimen/padding_large" android:text="@string/app_description" />
+	<TextView android:id="@+id/tvRelease" android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:gravity="left|center_horizontal"
+		android:paddingLeft="@dimen/padding_small" android:paddingTop="@dimen/padding_large"
+		android:text="@string/version" android:textAppearance="?android:attr/textAppearanceLarge" />
+	<TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:gravity="left|center_horizontal"
+		android:paddingLeft="@dimen/padding_small" android:paddingRight="@dimen/padding_small"
+		android:paddingTop="@dimen/padding_large" android:text="@string/app_alignmentText" />
+</LinearLayout>

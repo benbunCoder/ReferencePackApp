@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ActUncertainty" version="1.0" status="created"
+            id="2.16.840.1.113883.11.16899">
+   <concept code="N">
+      <displayName>No uncertainty recorded</displayName>
+   </concept>
+   <concept code="U">
+      <displayName>Recorded as uncertain</displayName>
+   </concept>
+</vocabulary>

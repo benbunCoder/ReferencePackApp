@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrObservationValueSignificance" version="2.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.74">
+   <concept code="386134007">
+      <displayName>Significant</displayName>
+   </concept>
+   <concept code="394847000">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrRequestMode" version="3.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.4.15.11.25">
+   <concept code="24541000000108">
+      <displayName>Referral modes</displayName>
+   </concept>
+   <concept code="25921000000105">
+      <displayName>Request form or letter sent mail/email</displayName>
+   </concept>
+   <concept code="24851000000109">
+      <displayName>Phone contact only</displayName>
+   </concept>
+   <concept code="25931000000107">
+      <displayName>Letter with patient</displayName>
+   </concept>
+</vocabulary>

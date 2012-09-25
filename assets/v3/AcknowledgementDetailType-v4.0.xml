@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AcknowledgementDetailType" version="4.0" status="created"
+            id="2.16.840.1.113883.2.1.3.2.1.5.1082.11.1">
+   <concept code="ER">
+      <displayName>Error</displayName>
+   </concept>
+   <concept code="WG">
+      <displayName>Warning</displayName>
+   </concept>
+   <concept code="IF">
+      <displayName>For Information</displayName>
+   </concept>
+</vocabulary>

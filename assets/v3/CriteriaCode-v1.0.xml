@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="CriteriaCode" version="1.0" status="superseded"
+            id="2.16.840.1.113883.2.1.3.2.4.17.142">
+   <concept code="DF">
+      <displayName>Distance From</displayName>
+   </concept>
+   <concept code="DFP">
+      <displayName>Distance From Postcode</displayName>
+   </concept>
+   <concept code="IWT">
+      <displayName>Indicative Wait Time</displayName>
+   </concept>
+   <concept code="KW">
+      <displayName>Keyword</displayName>
+   </concept>
+   <concept code="NC">
+      <displayName>Named Clinician</displayName>
+   </concept>
+   <concept code="OC">
+      <displayName>Organisation Code</displayName>
+   </concept>
+   <concept code="OS">
+      <displayName>Organisation String</displayName>
+   </concept>
+   <concept code="SMF">
+      <displayName>Staff Mix Female</displayName>
+   </concept>
+   <concept code="SMM">
+      <displayName>Staff Mix Male</displayName>
+   </concept>
+   <concept code="SMMF">
+      <displayName>Staff Mix Male or Female</displayName>
+   </concept>
+   <concept code="SP">
+      <displayName>Specialty</displayName>
+   </concept>
+</vocabulary>

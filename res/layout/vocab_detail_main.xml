@@ -1,0 +1,62 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical"
+	android:layout_width="match_parent" 
+	android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+         <TextView
+            android:layout_marginLeft="30dp" 
+            android:paddingTop="@dimen/padding_small"
+            android:gravity="left"
+            android:text="OID"
+            android:layout_width="100px"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+        <TextView
+            android:id="@+id/vocabDetailOid"
+            android:padding="3dip"
+            android:gravity="left"
+            android:text="xxxx"
+            />
+        </TableRow>
+        <TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginLeft="30dp" 
+            android:paddingTop="@dimen/padding_small"
+            android:gravity="left"
+            android:text="Version"
+            android:layout_width="100dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+        <TextView
+            android:id="@+id/vocabDetailVersion"
+            android:padding="3dip"
+            android:gravity="left"
+            android:text="Version"
+            />
+        </TableRow>
+        <TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginLeft="30dp" 
+            android:paddingTop="@dimen/padding_small"
+            android:paddingBottom="@dimen/padding_small"
+            android:gravity="left"
+            android:text="Status"
+            android:layout_width="100px"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+        <TextView
+            android:id="@+id/vocabDetailStatus"
+            android:padding="3dip"
+            android:gravity="left"
+            android:text="Version"
+            />
+        </TableRow>
+    </TableLayout>
+
+	<ListView android:id="@+id/lvList" 
+	    android:paddingTop="@dimen/padding_large" 
+	    android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@drawable/border">
+	</ListView>
+</LinearLayout>

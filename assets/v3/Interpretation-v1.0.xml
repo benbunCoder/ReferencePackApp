@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="Interpretation" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.8">
+   <concept code="HI">
+      <displayName>Above high reference limit</displayName>
+   </concept>
+   <concept code="LO">
+      <displayName>Below low reference limit</displayName>
+   </concept>
+   <concept code="OR">
+      <displayName>Outside reference range</displayName>
+   </concept>
+   <concept code="PA">
+      <displayName>Potentially abnormal</displayName>
+   </concept>
+</vocabulary>

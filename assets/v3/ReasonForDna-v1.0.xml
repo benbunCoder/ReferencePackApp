@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ReasonForDna" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.19">
+   <concept code="1">
+      <displayName>Cancelled too late</displayName>
+   </concept>
+   <concept code="2">
+      <displayName>Patient arrived too late to be seen</displayName>
+   </concept>
+   <concept code="3">
+      <displayName>Patient forgot about appointment</displayName>
+   </concept>
+   <concept code="4">
+      <displayName>Patient died</displayName>
+   </concept>
+   <concept code="5">
+      <displayName>Patient ill</displayName>
+   </concept>
+   <concept code="8">
+      <displayName>Patient did not arrive - reason not known</displayName>
+   </concept>
+   <concept code="9">
+      <displayName>Not specified</displayName>
+   </concept>
+</vocabulary>

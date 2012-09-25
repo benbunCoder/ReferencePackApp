@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="DispensingSitePreference" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.21">
+   <concept code="P1">
+      <displayName>Other (for example, nominated community pharmacy other than P2 or P3)</displayName>
+   </concept>
+   <concept code="P2">
+      <displayName>Appliance Contractor</displayName>
+   </concept>
+   <concept code="P3">
+      <displayName>Dispensing Doctor</displayName>
+   </concept>
+   <concept code="0001">
+      <displayName>Other (for example, nominated community pharmacy other than P2 or P3)</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Appliance Contractor</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Oxygen Contractor</displayName>
+   </concept>
+   <concept code="0004">
+      <displayName>None</displayName>
+   </concept>
+</vocabulary>

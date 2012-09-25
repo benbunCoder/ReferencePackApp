@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="AdministrativeGender" version="1.0" status="created"
+            id="2.16.840.1.113883.5.1">
+   <concept code="F">
+      <displayName>Female</displayName>
+   </concept>
+   <concept code="M">
+      <displayName>Male</displayName>
+   </concept>
+   <concept code="UN">
+      <displayName>Undifferentiated</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ProcessingMode" version="2.0" status="created"
+            id="2.16.840.1.113883.11.207">
+   <concept code="A">
+      <displayName>Archive mode</displayName>
+   </concept>
+   <concept code="I">
+      <displayName>Initial load</displayName>
+   </concept>
+   <concept code="R">
+      <displayName>Restore from Archive</displayName>
+   </concept>
+   <concept code="T">
+      <displayName>Current processing</displayName>
+   </concept>
+</vocabulary>

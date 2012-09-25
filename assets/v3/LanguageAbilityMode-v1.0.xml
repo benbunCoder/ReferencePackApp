@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="LanguageAbilityMode" version="1.0" status="active"
+            id="2.16.840.1.113883.5.60">
+   <concept code="ESGN">
+      <displayName>Expressed signed</displayName>
+   </concept>
+   <concept code="ESP">
+      <displayName>Expressed spoken</displayName>
+   </concept>
+   <concept code="EWR">
+      <displayName>Expressed written</displayName>
+   </concept>
+   <concept code="RSGN">
+      <displayName>Received signed</displayName>
+   </concept>
+   <concept code="RSP">
+      <displayName>Received spoken</displayName>
+   </concept>
+   <concept code="RWR">
+      <displayName>Received written</displayName>
+   </concept>
+</vocabulary>

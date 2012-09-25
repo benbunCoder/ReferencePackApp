@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="EhrActState" version="1.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.1.5.14.11.1">
+   <concept code="COMPLETE">
+      <displayName>Currently valid</displayName>
+   </concept>
+   <concept code="NULLIFIED">
+      <displayName>No longer valid and not replaced (i.e. marked as deleted)</displayName>
+   </concept>
+   <concept code="OBSOLETE">
+      <displayName>Replaced or superseded by a corrected or more up to date statement</displayName>
+   </concept>
+</vocabulary>

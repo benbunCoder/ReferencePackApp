@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabularies>
+	<vocabulary name="Food - allergy and adverse reaction constraint" id="1001000000134" memberCount="2414"/>
+	<vocabulary name="Adverse Reaction Propensity" id="1011000000131" memberCount="4"/>
+	<vocabulary name="Adverse Reaction Event" id="1021000000139" memberCount="3"/>
+	<vocabulary name="Investigations" id="1031000000137" memberCount="19609"/>
+	<vocabulary name="Provision of Advice" id="1041000000132" memberCount="1202"/>
+	<vocabulary name="Administrative Procedure" id="1051000000130" memberCount="2262"/>
+	<vocabulary name="Document type" id="1061000000133" memberCount="199"/>
+	<vocabulary name="Services, care professionals and carers" id="1071000000135" memberCount="59"/>
+	<vocabulary name="Drug - allergy and adverse reaction constraint" id="1081000000138" memberCount="8093"/>
+	<vocabulary name="Link Assertion MIM" id="1091000000136" memberCount="5"/>
+	<vocabulary name="Allergy Propensity" id="1101000000130" memberCount="3"/>
+	<vocabulary name="Allergy Event" id="1111000000132" memberCount="5"/>
+	<vocabulary name="Diagnosis" id="1261000000136" memberCount="72007"/>
+	<vocabulary name="CDA Care Setting Type" id="1271000000134" memberCount="408"/>
+	<vocabulary name="CDA Document Type" id="1281000000131" memberCount="25"/>
+	<vocabulary name="Blood Pressure" id="1291000000133" memberCount="1"/>
+	<vocabulary name="Supply" id="1301000000132" memberCount="1"/>
+	<vocabulary name="Administration Medication" id="1311000000134" memberCount="25"/>
+	<vocabulary name="Supply Request" id="1321000000137" memberCount="1"/>
+	<vocabulary name="Family History" id="1331000000135" memberCount="527"/>
+	<vocabulary name="CDA Encounter Type" id="1341000000130" memberCount="94"/>
+	<vocabulary name="Incidental Location Type" id="1351000000133" memberCount="921"/>
+	<vocabulary name="Device Type" id="1361000000131" memberCount="7554"/>
+	<vocabulary name="Height" id="1371000000138" memberCount="1"/>
+	<vocabulary name="Specimen Material Type" id="1381000000136" memberCount="1381"/>
+	<vocabulary name="Finding" id="1461000000137" memberCount="109399"/>
+	<vocabulary name="Discharge" id="1961000000132" memberCount="24"/>
+	<vocabulary name="Encounter disposition" id="1971000000139" memberCount="708"/>
+	<vocabulary name="CHC Encounter" id="34301000000136" memberCount="1"/>
+	<vocabulary name="CHC Respond To" id="34311000000139" memberCount="3"/>
+	<vocabulary name="Ambulance Request Type" id="43951000000135" memberCount="2"/>
+	<vocabulary name="Document Consent" id="43961000000137" memberCount="8"/>
+	<vocabulary name="Correspondence Care setting type" id="43971000000130" memberCount="212"/>
+	<vocabulary name="Correspondence Document type" id="44041000000135" memberCount="118"/>
+	<vocabulary name="Temperature" id="901000000132" memberCount="7"/>
+	<vocabulary name="Alcohol" id="911000000134" memberCount="1"/>
+	<vocabulary name="Lifestyle" id="921000000137" memberCount="8946"/>
+	<vocabulary name="Smoking" id="931000000135" memberCount="6"/>
+	<vocabulary name="Social and Personal Circumstances" id="941000000130" memberCount="6786"/>
+	<vocabulary name="Encounter type" id="951000000133" memberCount="9"/>
+	<vocabulary name="Risk to Person" id="961000000131" memberCount="2"/>
+	<vocabulary name="Weight" id="971000000138" memberCount="2"/>
+	<vocabulary name="Treatments" id="981000000136" memberCount="35722"/>
+	<vocabulary name="Personal Preferences" id="991000000139" memberCount="58"/>
+</vocabularies>

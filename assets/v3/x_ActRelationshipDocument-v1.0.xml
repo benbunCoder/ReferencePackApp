@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="x_ActRelationshipDocument" version="1.0" status="active"
+            id="2.16.840.1.113883.1.11.11610">
+   <concept code="RPLC">
+      <displayName>replaces</displayName>
+   </concept>
+   <concept code="APND">
+      <displayName>is appendage</displayName>
+   </concept>
+   <concept code="XFRM">
+      <displayName>transformation</displayName>
+   </concept>
+</vocabulary>

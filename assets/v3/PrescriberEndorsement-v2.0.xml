@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriberEndorsement" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.32">
+   <concept code="CC">
+      <displayName>No Charge Contraceptive</displayName>
+   </concept>
+   <concept code="SLS">
+      <displayName>Selected List Scheme</displayName>
+   </concept>
+   <concept code="ACBS">
+      <displayName>Advisory Committee Recommended</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PSNotificationMessageType" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.122">
+   <concept code="PORX_MT024003UK05">
+      <displayName>PS Notification Message PORX_MT024003UK05</displayName>
+   </concept>
+   <concept code="PORX_MT024003UK30">
+      <displayName>PS Notification Message PORX_MT024003UK30</displayName>
+   </concept>
+   <concept code="PORX_MT024003UK31">
+      <displayName>PS Notification Message PORX_MT024003UK31</displayName>
+   </concept>
+</vocabulary>

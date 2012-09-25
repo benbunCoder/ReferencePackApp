@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="PrescriptionTreatmentType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.36">
+   <concept code="0001">
+      <displayName>Acute</displayName>
+   </concept>
+   <concept code="0002">
+      <displayName>Repeat Prescribing</displayName>
+   </concept>
+   <concept code="0003">
+      <displayName>Repeat Dispensing</displayName>
+   </concept>
+</vocabulary>

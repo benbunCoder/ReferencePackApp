@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="ParentPrescriptionMessageType" version="3.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.17.119">
+   <concept code="PORX_MT132004UK05">
+      <displayName>Parent Prescription Message PORX_MT132004UK05</displayName>
+   </concept>
+   <concept code="PORX_MT132004UK30">
+      <displayName>Parent Prescription Message PORX_MT132004UK30</displayName>
+   </concept>
+   <concept code="PORX_MT132004UK31">
+      <displayName>Parent Prescription Message PORX_MT132004UK31</displayName>
+   </concept>
+   <concept code="PORX_MT132004UK32">
+      <displayName>Parent Prescription Message PORX_MT132004UK32</displayName>
+   </concept>
+</vocabulary>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary name="InformationSensitivity" version="2.0" status="active"
+            id="2.16.840.1.113883.2.1.3.2.4.16.1">
+   <concept code="Y">
+      <displayName>Stop noted</displayName>
+   </concept>
+   <concept code="B">
+      <displayName>Business reason</displayName>
+   </concept>
+   <concept code="S">
+      <displayName>Sensitive</displayName>
+   </concept>
+</vocabulary>
